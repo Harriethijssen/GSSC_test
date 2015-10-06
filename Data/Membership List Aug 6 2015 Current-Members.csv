@@ -1,0 +1,573 @@
+id,type,LastName,FirstName,F1,Street,City,Province,Postal,Phone,email,Region,MemberSince,Club,F2
+1,LIFE,Mensing,Frank                           ,LF,7755 - 229 Street,Langley,BC,V1M 2J5,604-888-2926,mensing@shaw.ca,WEST,Jan-79,Lower Mainland,1979
+13,18-Jan,Collins,Lance                          ,S,18033  29A  Ave.,Surrey,BC,V3S 9V2,604-542-9426,lrcollins@shaw.ca,WEST,Jan-79,WCGSSC,1979
+15,16-Jan,Saunders,Sue,S,660 Little Blvd,Gabriola Island,BC,V0R 1X3,250-358-8139,sesaund@telus.net,WEST,Jan-79,,1979
+21,16-Jan,Mutcher,Rita,S,23535 44 Ave,Langley,BC,V2Z 2V2,604-534-0172,sheps2@shaw.ca,WEST,Jan-79,LMGSDC,1979
+22,16-Jan,Deacon,Doug,S,1112 Castle Cres,Port Coquitlam,BC,V3C 5C6,778-285-3790,deac090@shaw.ca,WEST,Jan-79,Delta,1979
+40,LIFE,Lawrence,Susan                         ,LF,Site 3 Box 1  RR #2,Leduc,AB,T9E 2X2,780-986-6746,clonasle@xplornet.com,PRAIRIES,Jan-79,GSDCE,1979
+42,16-Jan,Gay,Barry/Cathy,F,4352 Middleton Road,Grasswood,SK,S7T 1A9,306-477-1919,sunshadows@shaw.ca,PRAIRIES,Jan-79,Central Plains,1979
+48,16-Jan,Klotz,Bernd,S,5302 Highway #9,St. Andrews,MB,R1A 3R4,204-334-9164,iklotz@shaw.ca,PRAIRIES,Jan-79,WWDC,1979
+48,LIFE,Klotz,Irene                           ,LF,No Magazine,,MB,R1A 3R4,204-334-9164,iklotz@shaw.ca,PRAIRIES,Jan-79,WWDC,1979
+73,16-Jan,Hrouda,Jan,S,155 Deer Park Pl SE,Calgary,AB,T2J 5L5,403-271-0277,janhrouda@shaw.ca,PRAIRIES,Jan-82,GSDCC,1982
+140,16-Jan,Pierson&Jackman,Cathie/Howie,F,695 Eagle River Place,Campbell River,BC,V9W 0B2,250-465-8532,cathiepierson@gmail.com,WEST,Jan-83,Comox Valley WDC,1983
+207,LIFE,Carnegie,Wayne,LF,321 Ranchglen Place  NW,Calgary,AB,T3G 1G2,403-239-2085,w2carnegie@shaw.ca,PRAIRIES,Jan-83,GSDCC,2010
+280,16-Jan,Houle,Jocelyn,S,900 Chemin-Des-Prés,Ste Marie Salomé,QC,J0K 2Z0,514-754-3195,,QUEBEC,Jan-83,Cyno Sport,2010
+443,16-Jan,Franke,Jost/Hannelore           , nbv,P.O. Box 85  RR #1,Sharon,ON,L0G 1V0,416-473-5121,,ONTARIO,Feb-83,Capital City,#REF!
+471,16-Jan,Dugré,Guy/Hèléne,F,4630 Des Bouleaux,Trois Rivieres,QC,G8Y 5J1,819-379-5540,helene.boisclair@uqtr.ca,QUEBEC,Jul-83,Pro Sport,1995
+608,16-Jan,Caron/Chabot,Jocelyn/Carole,F,1060 Rang St-Denis,Quebec,QC,G2G 0G2,418-871-8762,,QUEBEC,Jun-88,St Foy,1988
+609,16-Jan,Jantzen,Andrea/David,F,42355 Highland Drive,Chilliwack,BC,V2R 5H2,604-856-3273,dejantzen@telus.net,WEST,Jun-88,LMGSDC / WRSC,1988
+628,16-Jan,Landreville,Gaston,S,893 Flamand,Sherbrooke,QC,J1N 2K3,819-864-9782,glandrev@videotron.ca,QUEBEC,Nov-88,Estrie,1988
+643,16-Jan,Mullins/Meyer,Susan/Mike,F,9194 Cresswell Road,North Saanich,BC,V8L 5T9,250-652-0626,m.m.innes@shaw.ca,WEST,Jan-89,SVISC,1989
+647,16-Jan,Perkins,W.L.  [Len],S,"3005 Stagecoach Rd , R R 1",Osgoode,ON,K0A 2W0,613-826-2315,lenclellin_p@xplornet.com,ONTARIO,Aug-89,Rive Sud,1989
+720,16-Jan,Reynolds,Debbie,S,136 Glamis Terrace SW,Calgary,AB,T3E 6V3,403-703-6559,dlreynolds@live.com,PRAIRIES,Apr-89,,1989
+728,16-Jan,Vlug,Hans,S,130 Emily Park Rd RR #2,Omemee,ON,K0L 2W0,705-799-2799,hvlug031@gmail.com,ONTARIO,May-89,Peterborough,1989
+791,16-Jan,Grant,David/Susan,F,626 Beechmont Court,Saskatoon,SK,S7V 1C9,306-373-6668,stormfront@sasktel.net,PRAIRIES,Dec-89,,1989
+792,16-Jan,Baker,Marsha,S,18340 63A Ave,Surrey,BC,V3S 8A8,604-574-4710,,WEST,Dec-89,LMGSDC,1989
+872,16-Jan,MacDonald,Michael,S,167 Centerville St,Reserve Mines,NS,B1E 1A6,902-849-4458,mikeatmicurs@seascape.ns.ca,EAST,May-90,,1990
+895,16-Jan,Gallagher,Robert,S,1806 Kilburn Ave,Saskatoon,SK,S7M 0K3,306-665-9932,,PRAIRIES,Oct-90,Central Plains,1990
+927,16-Jan,Dethyse,Paul,S,17250 Chemin St. Roch,Sorel - Tracy,QC,J3R  0J3,450-730-0228,paul.dethyse@gmail.com,QUEBEC,Jan-91,Estrie,1990
+1008,16-Jan,Eviston,Suzanne,S,510 308th Strret NE,Stanwood,WA,98292,425-418-3488,seviston@aol.com,FOREIGN,Jul-91,Delta,1991
+1028,16-Jan,Shaver,Francine ,S,6699 Rennie Road,Courtenay,BC,V9J 1V1,604-334-2485,flshaver@shaw.ca,WEST,Sep-91,,1991
+1035,16-Jan,Hunter,Lyn,S,25542 Park Road,Sutton West,ON,L0E 1R0,905-722-3261,lynhunter@sympatico.ca,ONTARIO,Nov-91, ,1991
+1043,16-Jan,Chrisp,Jim,S,Box 210,Stony Mountain,MB,R0C 3A0,204-344-5567,jschrisp@yahoo.ca,PRAIRIES,Oct-91,WWDC,1991
+1061,16-Jan,Itkonen,Erkki,S,22172  46 Ave,Langley,BC,V2Z 1A3 ,778-240-7091,eki.itkonen@shaw.ca,WEST,Jan-92,LMGSDC,1991
+1071,16-Jan,Herle,Carolyn,S,530 Normandy Road S,Lethbridge,AB,T1J 4E9,403-320-9296,carolyn@herlandbouviers.ca,PRAIRIES,Jan-92,Chinook,1992
+1073,16-Jan,Grimsditch,Julie,S,29 Mansfield Cres,Whitby,ON,L1N 6X8,905-436-8458,juliegrimsditch@rogers.com,ONTARIO,Feb-92,Durham,1992
+1102,16-Jan,Smith,Sharon,S,"20170 Fairview Road, RR #2",Thorndale,ON,N0M 2P0,519-461-1909,tersha@sympatico.ca,ONTARIO,Apr-92,Saugeen,1992
+1108,16-Jan,Holowaty,Jane,S,4415 Dawn Dr,Delta,BC,V4K 4P7,604-946-3108,janeh@telus.net,WEST,May-92,WCGSSC,1992
+1112,16-Jan,Kowalczyk,Teresa,S,294197  8th Line ,Grand Valley,ON,L0N 1G0,519-928-5966,vonkolblhaus@sympatico.ca,ONTARIO,May-92,Saugeen,1992
+1114,16-Jan,Mills,George,S,23 Meadowland Gate,Brampton,ON,L6W 3N8,416-201-8546,,ONTARIO,May-92,,1992
+1154,16-Jan,Spallek,Lothar,S,765 Concession 5 Road,St Eugene,ON,K0B 1P0,613-674-1964,lotharspallek@live.ca,ONTARIO,Jul-92,,1992
+1311,16-Jan,Robinson,Sheila/Greg,F,6000 Promontory Road,Chilliwack,BC,V2R 4M4,604-858-2346,greglrobinson@hotmail.com,WEST,Jun-94,LMGSDC,1992
+1368,16-Jan,Lensen,April,S,20 Otter Cove,Pefferlaw,ON,L0E 1N0,705-437-2524,alensen@rogers.com,ONTARIO,Sep-94,Capital City,1994
+1382,18-Jan,Novak,Frank/Jeanne             ,F,22059 Twp Road 520,Sherwood Park,AB,T8E 1E6,780-922-3955,dragonhaus1@gmail.com,PRAIRIES,Dec-94,GSDCE,1994
+1484,16-Jan,Stepanis,Pando/Sandra,F,"374127 Six Line of Amaranth, R.R.7",Orangeville,ON,L9W 0M6,519-942-8471,pando@olympusk9.com,ONTARIO,Aug-95,Saugeen,1995
+1508,16-Jan,Haringsma,Darryl,S,4191 Barnjum Road,Duncan,BC,V9L 6G5,250-748-2266,darryl_h@shaw.ca,WEST,Sep-95,Pacific,1995
+1548,16-Jan,Menard,Claire,S,74 Duke St,Thunder Bay,ON,P7A 5S7,807-767-9473,callison@tbaytel.net,ONTARIO,Jan-96,TBSC,1996
+1549,17-Jan,Alexander,Stephen/Kathy,F,4040 Tucker Ave,Richmond,BC,V7C 1L8,604-271-7311,dogpak@shaw.ca,WEST,Jan-96,Delta,1996
+1558,17-Jan,Waters,Wade/Melissa,F,#56 175 Manora Place NE,Calgary,AB,T2A 5P7,406-546-5250,wade@stixnstonz.ca,PRAIRIES,Feb-96,GSDCC,1996
+1562,16-Jan,Rapanos,Eveline,S,3838 West 11th  Ave.,Vancouver,BC,V6R 2K9,604-228-9354,erapanos@shaw.ca,WEST,Mar-96,,1996
+1664,16-Jan,Cayer,Marcel,S,262 Rue de la Montagne,Papineauville,ON,J0V 1R0,819-423-1518,mcayer@hotmail.com,QUEBEC,Nov-96,Mirabel,1996
+1690,16-Jan,Barnes,Jacklynne,S,6100 Loch Lomond Road,Thunder Bay,ON,P7J 1E6,807-475-4561,jbarnes@tbaytel.net,ONTARIO,Feb-97,TBSC,1997
+1707,16-Jan,Krauss/Baker,Diana/Robert,F,4511 Postill Drive,Kelowna,BC,V1X 7V2,778-753-1966,dianakrauss@shaw.ca,WEST,Apr-97,,1997
+1709,16-Jan,Alexander,Harold,S,50 Kinnear Road,Cormier-Village,NB,E4P 5Y1,506-532-9255,h.alexander@mma.edu,EAST,Apr-97,PEI Sch H Club,1997
+1743,16-Jan,Palanuik,Guy,S,1909 - 26A Street,Langley,BC,V4W 2S5, ,gpalanuik@shaw.ca,WEST,Jul-97,Western Rescue,1997
+1752,16-Jan,McAllister,Sandy,S,6215 34Th St. SW,Calgary,AB,T3E 5M1,403-249-7611,nax@shaw.ca,PRAIRIES,Aug-97,WRSC,1997
+1773,16-Jan,Nesbitt,Sue,S,R.R.4,Waterford,ON,N0E 1Y0,519-443-4536,flyingk9@silomail.com,ONTARIO,Oct-97,,1997
+1793,16-Jan,Wiggans,Beverley,S,"R.R.3, 3646 Solina Road",Bowmanville,ON,L1C 3K4,905-433-8881,bwiggans@wcshighspeed.com,ONTARIO,Jan-98,Durham,1997
+1804,16-Jan,Carvalho,Eulalia,S,587 Montgomery St,Thunder Bay,ON,P7B 2B3,807-344-2600,,ONTARIO,Jan-98,TBSC,1998
+1828,17-Jan,Gilby,Ralph/Shelley,F,22663 Old Yale Road,Langley,BC,V2Z 2V4,604-539-2074,ralphgilby@telus.net,WEST,Apr-98,Delta,1998
+1872,16-Jan,Clarke,Darin/Mia,FY,"1096, Route 850",Kiersteadville,NB,E5T 3P4,506-485-2081,miaurq@nbnet.nb.ca,EAST,Sep-98,Fundy,1998
+1875,16-Jan,Geldart,Margaret,S,4 D'Albret Cres,Scarborough,ON,M1T 2X3,416-754-0311,,ONTARIO,Sep-98,SSGSSC,1998
+1882,16-Jan,McCullough,Colin,S,61 Shorewood Place,Oakville,ON,L6K 3Y3,,,ONTARIO,1-Oct-09,,1998
+1895,16-Jan,Chrisp,Jean,S,Box 210,Stony Mountain,MB,R0C 3A0,204-344-5567,jeanfischer@mts.net,PRAIRIES,Dec-98,WWDC,2009
+1909,16-Jan,Stragapete,Vince/Susan,F,52 Dixon Road,Toronto,ON,M9P 2L3,416-244-2065,svstraapete@look.ca,ONTARIO,Mar-99,Toronto Sch H Club,1999
+1952,16-Jan,Arsenault,Anne,S,"1496, Rte 860",Smith Town,NB,E5N 3X3,506-832-4931,ammunro@nb.sympatico.ca,EAST,Sep-99,Fundy,1999
+1964,16-Jan,Lucescu,Renee,S,"72199 Regional Rd 27, RR #1",Fenwick,ON,L0S 1C0,905-386-6993,rlucescu@hotmail.com,ONTARIO,Oct-99,Niagra,1999
+1965,16-Jan,Larsen,Michelle                      ,S,9055 112A St,Delta,BC,V4C 5A1,604-507-3947,michelle@bruceallen.com,WEST,Oct-99,LMGSDC,1999
+2001,17-Jan,Puharich,Vesna ,S,2174 Ferndale St,Vancouver,BC,V5L 1Y4,604-254-6991,vesna@direct.ca,WEST,Apr-00,LMGSDC,1999
+2006,16-Jan,McEniry,Frank,S,1590 Turgeon Cres.,Brossard,QC,J4W 3H5,450-672-9386,webark@sympatico.ca,QUEBEC,May-00,ECWDC,2000
+2014,16-Jan,Rohde,Gerhard,S,17337 101 Ave,Surrey,BC,V4N 4L7,604-581-8062,crohde1@shaw.ca,WEST,May-00,Delta,2000
+2016,16-Jan,Day,Clifford/Angela,F,14 Damascus Road,Upper Golden Grove,NB,E2S 1C3,506-849-3948,lkipday@nbnet.nb.ca,EAST,May-00,Fundy,2000
+2017,16-Jan,Wright,Deanna,S,"855 B, Rutherford Wy",Saskatoon,SK,S7N 4X6,306-260-6377,hardebar@gmail.com,PRAIRIES,Jun-00,Central Plains,2000
+2045,16-Jan,Moore,Bill,S,6630 Central Saanich Road,Victoria,BC,V8Z 5T7,250-652-0626,stanrick@telus.net,WEST,Nov-00,,2000
+2055,16-Jan,Kopecky,George/Vlasta,F,"Box 22 Gr 10, RR #1",Dugald,MB,R0E 0K0,204-222-1144,,PRAIRIES,Oct-00,WWDC,2000
+2058,16-Jan,Anderson,Dorwin/Louise            ,F,27082 48 Ave,Langley,BC,V4W 1N4,604-930-1606,dorwin@telus.net,WEST,Dec-00,LMGSDC,2000
+2072,16-Jan,Bulloch,Tim,S,9605 Kerby Road,Windsor,ON,N8R 1K1,510-966-8499,jbulloch@cogeco.CA,ONTARIO,1-Feb,Windsor,2001
+2077,16-Jan,Gerela,Ted,S,6370 Ryder Lake Road,Sardis,BC,V4Z 1E2,604-789-8174,tgerela@yahoo.com,WEST,1-Mar,Independent,2001
+2078,16-Jan,Stewart,Sylvie,S,153 Onulphe-Peltier,L'Epiphanie,QC,J5X 3X1,450-588-6521,stewartsylvie@hotmail.com,QUEBEC,1-Mar,Cyno Sport,2001
+2105,16-Jan,Tomlinson,Edwynna,S,42 Sanddrift Sq,Scarborough,ON,M1E 4N6,416-822-3945,dragonjools@gmail.com,ONTARIO,1-Jun,Synergy,2001
+2109,16-Jan,Fluegge,Raino ,F,918 East Suffolk Road  - Rte. 229,Suffolk  ,PEI,C1C 0G4,506-832-2867,raino@germanshepherddogs.ca,EAST,1-Jun,PEI Schutzhund,2001
+2118,16-Jan,Parsons,Jack,S,606 Windgap Road,Flatrock,NL,A1K 1J6,709-437-5789,jk@kp.nf.ca,EAST,1-Jul,NFLDSC,2001
+2130,16-Jan,Hutcheon,Dorothy,S,7974 Sabyam Road,Prince George,BC,V2K 2K3,250-962-7683,,WEST,1-Jul,NBCSA,2001
+2152,16-Jan,Trouton/Brown,Ken/Mae,F,19145 59th Avenue,Surrey,BC,V3S 7N1,604-588-9215,ktrouton@northerntrailer.com,WEST,1-Nov,LMGSDC,2001
+2153,16-Jan,Fleming,Joanne,S,PO Box 1669,Stayner,ON,L0M 1S0,,joannefleming13@sympatico.ca,ONTARIO,1-Dec,,2001
+2155,17-Jan,Coallier,Marc,S,1224 Erie Avenue,Ottawa,ON,K1V 6G6,613-731-4851,m_coallier@hotmail.com,QUEBEC,1-Dec,Mirabel,2001
+2170,16-Jan,Mazzulla,Frank,S,58 Millview Cres,Etobicoke,ON,M9W 3K5,416-742-5134,,ONTARIO,2-Mar,Saugeen,2002
+2176,16-Jan,Haslett,Peter/Rachel,F,69 Cranberry Hill,Saint John,NB,E2K 5E4,506-636-1615,phaslett@nbnet.nb.ca,EAST,2-Mar,Fundy,2002
+2182,17-Jan,March,Karen,S,6440 Edgewood Ave,Halifax,NS,B3L 2N8,902-453-2589,kmarchns@gmail.com,EAST,2-Apr,East Coast,2002
+2187,16-Jan,Wong,Nancy,S,4288 Boxer St,Burnaby,BC,V5J 2V9,604-435-6521,nancywong1@telus.net,WEST,2-Apr,WCGSSC,2002
+2207,16-Jan,Pepin/Ridler,Noel/Joanne,F,7590 Chilako Road,Prince George,BC,V2L 6E4,250-963-7818,npepin@telus.net,WEST,2-Jun,WDCPG,2002
+2208,16-Jan,Emery,Bill                                ,S,5895 Spencer Rd.,Grand Forks,BC,V0H 1H5,250-339-1796,bill_em@shaw.ca,WEST,2-Jun,WCGSSC,2002
+2215,16-Jan,Anstee/Asmussen,Monique/Brian,F,1633 Kangaroo Road,Victoria,BC,V9C 4C6,250-590-2475,moniqueandbasil@shaw.ca,WEST,2-Jun,SVISC,2002
+2232,19-Jan,Currey,Brian,S,24 Murray Place,Calgary,AB,T3Z 3L4,403-850-5000,,PRAIRIES,2-Aug,GSDCC,2002
+2258,16-Jan,Little,Lisa,S,PO Box 1669,Stayner,ON,L0M 1S0,705-428-2258,joannefleming13@sympatico.ca,ONTARIO,2-Nov,,2002
+2265,16-Jan,Simoneau,Helene,S,"1192, Rue Principale",St. Ferdinand,QC,G0N 1N0,418-428-9638,rhsimoneau@gmail.com,QUEBEC,3-Jul,Estrie,2002
+2267,16-Jan,Thomson,Ian,S,590 Woodbridge Dr,Tecumseh,ON,N8N 4V5,519-979-2584,ithomson1@cogeco.ca,ONTARIO,3-Jan,Windsor Sch H Club,2003
+2268,16-Jan,Groh,Karen/Craig,F,7435 Balcom Canyon Road,Somis,CA,93066  USA,,k9@grohaus.com,FOREIGN,3-Jan,,2003
+2299,16-Jan,MacInnis,Kim,S,334 Darlington Road  RR#4,North Wiltshire,PEI,C0A 1Y0,902-621-0714,kim.macinnis@nbf.ca,EAST,3-Feb,PEI Schutzhund,2003
+2304,16-Jan,Doan,Connie,S,33184 14th Ave,Mission,BC,V2V 2P6,604-826-9644,cedoan@uniserve.com,WEST,3-Feb,WCGSSC,2003
+2311,16-Jan,Marhan,John,S,4725 Lloydtown Road,King  ,ON,L7B 0E2,416-843-5307,jmarhan@rogers.com,ONTARIO,3-Mar,Capital City,2003
+2315,16-Jan,Bouchard,Francoise,S,"R R #3, 14734 Neville Rd",Ingleside,ON,K0C 1M0,613-984-0482,bluemistkennels@gmail.com,ONTARIO,3-Apr,,2003
+2334,16-Jan,Desjardins,Marilyn,S,608 W Gore St,Thunder Bay,ON,P7E 3S3,808-577-1062,twobouvs@shaw.ca,ONTARIO,3-Apr, Thunder Bay Sch Club ,2003
+2335,16-Jan,Waters,Dan,S,1 - 4699  61 Street,Red Deer,AB,T4N 7C9,403-343-3045,dwconstruction@telus.net,PRAIRIES,3-May,GSDCC,2003
+2376,16-Jan,Howorth,Jean Muzik,S,2929 Walker Rd,Windsor,ON,N8W 3R4,519-966-8708,sjhoworth@cogeco.ca,ONTARIO,3-Sep,WSTC,2003
+2404,16-Jan,Marx,Jo,S,1280 Santa Maria Place,Victoria,BC,V8Z 6S5,250-479-8048,jo.marx@shaw.ca,WEST,3-Dec,Pacific,2003
+2408,17-Jan,Wandtke,Craig,S,"72199 Regional Rd 27, RR #1",Fenwick,ON,L0S 1C0,905-386-6993,,ONTARIO,4-Feb,Niagara,2003
+2416,16-Jan,Lamarche,Mario,S,1100 Terrasse Louis Basile Pigeon,Lachine,QC,H8S 4L6,514-637-9356,marioolgak9@hotmail.com,QUEBEC,4-Feb,Cyno Sport,2004
+2419,18-Feb,Hoffmann,Gabi                            ,S,18033  29A  Ave.,Surrey,BC,V3S 9V2,604-542-9426,gchoffmann@shaw.ca,WEST,4-Feb,WCGSSC,2004
+2436,16-Jan,Gould,Simon/Tina,F,2320 Bryant Road,Prince George,BC,V2N 6V7,250-612-7422,gouldtown@shaw.ca,WEST,4-Apr,NBCSA,2004
+2437,16-Jan,Crisp,Catherine,S,310 The Westway,Etobicoke,ON,M9R 1G9,416-243-0390,attitudeunlimited@rogers.com,ONTARIO,4-Apr,Saugeen,2004
+2438,16-Jan,Dobson,Graham,S,26 Rockwood Rd,Kitchener,ON,N2E 3S5,519-579-7507,graham.dobson@sympatico.ca,ONTARIO,4-Apr,Saugeen,2004
+2473,16-Jan,Lottes/Dickinson,Manfred/Heather,F,101 Tweed Cr,Russell,ON,K4R 1A6,613-445-3059,fredlottes@hotmail.com,ONTARIO,4-Jul,Mirabel,2004
+2478,16-Jan,Jones ,Helen,S,8655A Mcivor Lake Road,Campbell River,BC,V9H 1P1,250-287-7552,helencoxjones@hotmail.com,WEST,4-Jul, ,2004
+2480,16-Jan,Martell,Jo-Anne,S,1560 De L'Ecole,Ste-Justine De Newton,QC,J0P 1T0,450-764-3267,jmart10438@sympatico.ca,QUEBEC,4-Aug,Cyno Sport,2004
+2481,16-Jan,Scott,Robert,S,"P O Box 187, Stn Main",Nanaimo,BC,V9R 5K9,250-722-2838,scopark9@shaw.ca,WEST,4-Aug,Pacific,2004
+2485,16-Jan,Sutherland/Arduini,Moira/Chris ,F,4240 200th  St,Langley,BC,V3A ILI,604-533-9278,balisuth@gmail.com,WEST,4-Sep,LMGSDC,2004
+2494,16-Jan,Duchscherer,Phil,S,3582 Rosia Road,Prince George,BC,V2K 4Y6,250-562-6068,pduchscherer2@gmail.com,WEST,4-Sep,WDCPG,2004
+2502,16-Jan,Wadowska,Dorota,S,76 St Catherines Road,Bonshaw,PEI,C0A 1C0,902-675-2291,wadowska@upei.ca,EAST,4-Oct,PEISC,2004
+2503,16-Jan,Barnes,Sarah,S,4191 Barnjum Road,Duncan,BC,V9L 6G5,250-748-2266,sarah.barnes@shaw.ca,WEST,4-Oct,Pacific,2004
+2509,16-Jan,Winter,Robin/Harold,FY,1465 Route 620,Estey's Bridge,NB,E3G 6M9,506-454-4737,robin@narniakennels.com,EAST,4-Oct,Central NB,2004
+2515,15-Oct,Almeida,Aaron                  ,S,4737 Elk Road,Victoria,BC,V8X 3X1,250-479-0636,wish69@shaw.ca,WEST,4-Oct,Pacific,
+2517,16-Jan,Biase,Joe,S,487 Elizabeth St, Oshawa,ON,L1J 5S9,905-426-2436,sbiase@rogers.com,ONTARIO,4-Nov,Capital City,2004
+2527,16-Jan,Sinclair,Karen,S,1909 - 269A Street,Langley,BC,V4W 2S5,604-625-6191,karensinburg@hotmail.ca,WEST,5-Jan,Delta,2004
+2528,16-Jan,Pucci,Pino/Sherrel,F,3739 Dawson Road,Thunder Bay,ON,P7G 2G6,807-768-8210,pino@pulpsales.com,ONTARIO,4-Dec,TBSC,2005
+2532,16-Jan,Dworatschek,Joe,S,"5450 Sexton Side Road, RR #3",Maidstone,ON,N0R 1K0,,,ONTARIO,5-Jan,Windsor,2005
+2540,17-Jan,Schrauwen,Kathy,S,15328 Gre.enhoe Rd,Vernon,BC,V1T 5P2,250-306-7467,kss-16@hotmail.com,WEST,5-Feb,Okanagan Working Dog Club,2005
+2549,16-Jan,Hartelaub/Bouzkova,Anthony/Michaela,F,934 Burford-Delhi  Townline Road,Scotland,ON,N0R 1R0,647-518-0590,anthony.hartelaub@gmail.com,ONTARIO,5-Mar,York,2005
+2550,16-Jan,Levesque/Tremblay,Yvon/Helene,F,580 Rang Pied De La Montagne,Ste-Melanie,QC,J0K 3A0,450-889-7559,yvonlevesque1961@hotmail.fr,QUEBEC,5-Mar,Estrie,2005
+2554,16-Jan,Stein/Girouard,Alfred/Ginette,F,1110 Hodge Street,Saint Laurent,QC,H4N 2B7,514-748-8328,felsenburg@bell.net,QUEBEC,7-Apr,Mirabel,2005
+2570,16-Jan,Boudreau/Bauer,Julie/Michael,F,PO Box 120 ,Gunton,MB,R0C 1H0,204-885-1841,jubrichtt@hotmail.com,PRAIRIES,5-May,WWDC,2005
+2590,16-Jan,Panczak,Angie,S,Box 625,Magrath,AB,T0K 1JO,403-327-6366,aderkatz@hotmail.com ,PRAIRIES,5-Jun,Chinook,2005
+2591,16-Jan,Craddock,Angela,S,19370 - 36th Avenue,Surrey,BC,V3S 0L5,778-320-2643,hottotrotrotts@shaw.ca,WEST,9-Feb,WCGSSC,2005
+2594,16-Jan,Dilworth,Jan,S,2426  126 A Street,Surrey,BC,V4A 8H7,604-536-7419,jandilworth@shaw.ca,WEST,5-Jun,LMGSDC,2009
+2602,16-Jan,Brown,Karen,S,9570 5th Sideroad  RR#2,Erin,ON,N0B 1T0,519-856-0638,karen0410@hotmail.com,ONTARIO,5-Jul,Saugeen,2005
+2603,16-Jan,Laberge,Stephane,S,80 Rue Bon-Air,Ste-Catherine J.C.,QC,G3N 1B3,418-875-4113,s.laberge@oricom.ca,QUEBEC,5-Jul,Ste Foy,2005
+2605,16-Jan,Herold/Atterton,Dianne/Rob,F,1987 Concession Road 4,Loretto,ON,L0G 1L0,705-424-3038,tascoshepherd@hotmail.com,ONTARIO,5-Aug,Saugeen,2005
+2635,16-Jan,Jones ,Jennifer,S,43410 Case Road,Wainfleet,ON,L0S 1V0,289-696-5825,vomkahenbach@bell.net,ONTARIO,6-Feb,? Saugeen,2006
+2637,16-Jan,Dokter,Nick,S,18260 58A  Ave,Surrey,BC,V3S 7E9,604-803-4922,n.dokter@telus.net,WEST,6-Feb,WCGSSC,2006
+2645,16-Jan,McWhinney,Wayne & Wendy,F,66 Panther Pass Road,Waasis,NB,E3B 9M8,506-446-5888,wwmc@nb.sympatico.ca,EAST,6-Mar,PEI & Central NB,2009
+2651,16-Jan,Von DerWense,Heidi,S,1755 Oyster Way,Gabriola,BC,V0R 1X6,250-247-9859,handj1999@shaw.ca,WEST,6-Apr, ,2006
+2652,16-Jan,Zentena,Mike,S,1 Katherine Rd.,Toronto,ON,M3K 1J1,416-636-7222,mikezentena@rogers.com,ONTARIO,6-Mar,Toronto Sch H Club,2006
+2665,16-Jan,Haynes/O'Briant,Gwen/Shannon,F,127 West Springs Way SW,Calgary,AB,T3H 4P5,403-245-0853,ghaynes@blgcanada.com,PRAIRIES,6-May, Chinook ,2006
+2672,16-Jan,Klopper,Donna,S,1024 Newbury Ave,Oshawa,ON,L1G 1G9,905-434-8692,darneara@hotmail.com,ONTARIO,7-Sep, ,2006
+2686,16-Jan,Foley,Patricia,S,25542 Park Road,Sutton West,ON,L0E 1R0,905-572-2455,dogscents@gmail.com,ONTARIO,7-Oct,Capital City,2006
+2691,16-Jan,Glass,Donna,S,1388 Madill Rd Box 354,Gooderham,ON,K0M 1R0,705-447-9900,jpgdecks@bell.net,ONTARIO,7-Oct,Peterborough,2006
+2700,16-Jan,Harrison,Carla/Ron,F,RR#3 PO Box 2 Site 7,Barrhead,AB,T7N 1N4,780-967-4213,jesslyn1977@aol.com,PRAIRIES,6-Nov,GSDC Calgary,2006
+2777,16-Jan,Greenson,Leslie ,S,12 Mckellar Lane,King City,ON,L7B 1E5,905-833-0878,lapattersn@rogers.com,ONTARIO,6-May,York,2006
+2785,16-Jan,Fielding,Alan,S,304 Aurora Heights,Aurora,ON,L4G 5C4,905-264-0001,alfield@rogers.com,ONTARIO,6-Jul,York,2006
+2787,16-Jan,Charest,Francis,S,856 Rang Double,St-Lin-Laurentides,QC,J5M 1X8,450-439-2580,grandeourse@hotmail.ca,QUEBEC,6-Jul,Cyno Sport,2006
+2789,16-Jan,Chaloner-Blair,Mary,S,10970 132 St,Surrey,BC,V3T 3W7,604-536-8176,maryccb@shaw.ca,WEST,6-Jul, ,2006
+2827,16-Jan,Fischer,Jurgen,S,43410 Case Road,Wainfleet,ON,L0S 1V0,416-830-8152,fijurgen@gmail.com,ONTARIO,6-Nov,Saugeen,2006
+2828,16-Jan,Wojtowich,Jacqueline,S,RR#2,Granton,ON,N0M 1V0,519-225-2685,info@artbyj.com,ONTARIO,6-Dec,Niagara hundesport,2006
+2830,16-Jan,Contofalsky,Marian,S,5430 Vauclin,Brossard,QC,J4W 1P8,450-923-9156,eurodecor@videotron.ca,QUEBEC,7-Jan,Rive Sud,2007
+2838,16-Jan,Stevenson,Brad/Gail,F,1440 Stewart Rd,Prince George,BC,V2N 6X1,250-963-8706,brad_stevenson@telus.net,WEST,7-Feb,NBCSA,2007
+2848,16-Jan,Girard,Patrick,S,285 Rue Chicoine,St-Liboire,QC,J0H 1R0,450-793-4172,Lyki13@hotmail.com,QUEBEC,7-Feb,Estrie,2007
+2849,17-Jan,Larivee,Nathalie,S,5060 Du Sepale,La Plaine,QC,J7M 2K3,450-478-1264,nathalie.larivee@hotmail.com,QUEBEC,7-Feb,Cyno Sport,2007
+2850,16-Jan,Szokoll,Natalie,S,649 Rang du ruisseau des anges Nord,St-Roch de l'Achigan,QC,J0K 3H0,450-705-3983,nataszok@videotron.ca,QUEBEC,7-Jun,Mirabel,2007
+2859,16-Jan,Jamieson,Rosalyn,S,22683 Telegraph Trail,Langley,BC,V1M 3S4,778-899-5222,rosjamieson@hotmail.com,WEST,7-Apr,WCGSSC,
+2868,16-Jan,Kochtcheeva ,Natalia ,S,1223 Turner Drive,Milton,ON,L9T 5R6,905-636-8311,natalia.koch@mckesson.ca,ONTARIO,7-Apr,Niagara,2007
+2870,16-Jan,Kisser/Koskensalo,Christine/Marko,F,12631 Powell Street,Mission,BC,V45 1C1,604-530-1906,christine_kisser@hotmail.com,WEST,7-Apr,LMGSDC,2007
+2872,16-Jan,Giso,Jason,S,319 Diamond Court SE,Calgary,AB,T2J 7C7,403-201-1090,gisos@shaw.ca,PRAIRIES,7-Apr,CSCA,2007
+2873,16-Jan,Zamfirescu,George/Andreea,F,"556 Concession 7 Rd, RR #3",Cayuga,ON,N0A 1E0,905-779-0677,omalaberg@optionsdsl.ca,ONTARIO,10-Jul,Niagra,2007
+2889,16-Jan,Eramo,Philip,S,1233 Kilbride Street,Kilbride,ON,L7P 0H2,416-887-7778,pgsd@cogeco.ca,ONTARIO,7-May,,
+3015,16-Jan,Dubuc,Jean-Claude,S,470 Route Tessier,St-Augustin De Desmaures,QC,G3A 0E4,418-878-6047,jcdubuc@videotron.ca,QUEBEC,7-Jul,Ste Foy,2007
+3027,16-Jan,Pitts,Jamie-Lynn/James,S,6 Laurier Cr,St Albert,AB,T8N 1M7,780-238-3647,jl@superk9s.com,PRAIRIES,7-Aug,GSDCE,2007
+3038,16-Jan,Weaver,Louise,S,276 Edinburgh Street,Fredericton,NB,E3B 2C9,506-454-0457,lweaver@unb.ca,EAST,7-Sep,CNBSC,2007
+3043,16-Jan,Bernard,Maurice,S,649 Rang du ruisseau des anges Nord,St-Roch de l'Achigan,QC,J0K 3H0,450-565-0857,mau@live.ca,QUEBEC,7-Sep,Mirabel,2007
+3072,16-Jan,Mycholuk,Heather,S,99 Ekota Cresent,Edmonton ,AB,T6K 2J6,780-450-8027,hmycholuk@live.ca,PRAIRIES,7-Oct,GSDCE,2010
+3074,16-Jan,Dorrington,Kimberly,S,564 Holm Road,Campbell River,BC,V9W 1W4,`250 923-4713,kimmers101@gmail.com,WEST,,Comox,
+3094,16-Jan,Lachini      ,Farzin,S,320 Killdeer Way,Fort McMurray,AB,T9K 0R3,780-881-5827,farzinlachini@aol.com,PRAIRIES,7-Nov,,2007
+3096,16-Jan,Price,Liesl,S,1386 242 Street,Langley,BC,V2Z 1L2,604-671-6851,priceliesl@gmail.com,WEST,7-Nov,Delta,2007
+3097,16-Jan,Mcintosh,Neil,S,"890 Simpsons Lane,  Rte 255",Auburn,PEI,C1B 3G7,,ngmcintosh@yahoo.ca,EAST,9-Jun,PEI Sch H club,2007
+3105,16-Jan,Guptill,Jacqueline,S,2223 Brownline,Cavan Monaghan,ON,K9J 6Z9,905-665-1895,jackie_guptill@hotmail.com,ONTARIO,8-Jul,Durham,2009
+3112,16-Jan,Tendam,John/Audrey,F,"4664 Hwy 7 , RR #2",Norwood,ON,K0L 2V0,,atendam@nexicom.net,ONTARIO,8-Mar,Peterborough,2008
+3129,16-Jan,Frederick,Lisa,S,1400 County Rd.# 46 RR #5,Orillia,ON,L3V 6H5,705-484-0199,info@unleashedk9.ca,ONTARIO,9-Jul, ,2008
+3145,16-Jan,Fox,Russell/Danielle,F,614 Crozier Rd,Oxford Mills,ON,L0G 1S0,613-612-3865,rfox1062@gmail.com,ONTARIO,5-Jun,,2008
+3162,16-Jan,Findlay,Brad/Vicki,F,RR #1,Bognor,ON,N0H 1E0,,vicfindlay@gmail.com,ONTARIO,8-Jul,Saugeen,2010
+3174,17-Jan,Caputo,Frank,S,204 Crestwood Road,Thornhill,ON,L4J 1A9,416-917-6070,frankcaputo@bell.net,ONTARIO,8-Aug,SSGSSC,2008
+3175,16-Jan,Hanrahan,Lee,S,2244 McGovern Road West,Oxford Mills,ON,KOG 1SO,,unlimitedgsd@me.com,ONTARIO,8-Aug,Mirabel,2008
+3195,16-Jan,Pidruchney ,Darren,SY,60 22531 TWP RD 510,Leduc County,AB,T0B 3M1,780-901-1381,jet2012@live.ca,PRAIRIES,8-Nov,GSDCE,2008
+3196,16-Jan,Murray/Murphy,Cassandra/Raymond,F,P.O. Box 4514,Sussex,NB,E4E 5L6,,cassandra@nbmilk.org,EAST,8-Nov,Fundy,2008
+3202,16-Jan,Bourque,Rod,S,185 Harper Drive,Shediac ,NB,E4P 1W8,506-532-5870,,EAST,9-Feb,ECWDC,2008
+3203,16-Jan,Hammill,Ashley,S,26 Buchanan St,Cobourg,ON,K9A 1Y9,905-375-8972,catpaw_18@hotmail.com,ONTARIO,9-Feb,Ganaraska,2009
+3207,16-Jan,Mah Woo,Suzanne,S, 76 Brightoncrest Rise SE,Calgary,AB,T2Z 0X6,403-477-6036,suzannemwcsc@gmail.com,PRAIRIES,9-Mar,Chinook,2009
+3209,17-Jan,Luhoff,Peter,S,Box 216,Stirling,AB,T0K 2E0,403-733-2283,pluhoff@hotmail.com,PRAIRIES,9-Mar,,2009
+3211,16-Jan,Smith,Robert,S,1303 Fourth Avenue,New Westminster,BC,V3M 1V1,604-520-3824,blackdogbouviers@me.com,WEST,9-Mar,Lower Mainland,2009
+3214,16-Jan,Middleton,Terry,S,48 Neck Road,Quispamsis,NB,E2G 1J5,506-216-1861,termid@rogers.com,EAST,9-Mar,Fundy,2009
+3222,16-Jan,Bertrand,Guy,S,7570 Rapid Plat Nord,St Hyacinthe,QC,J2R 1H6,514-887-0373,cci@qc.aira.com,QUEBEC,9-Apr,IPO Sport,2009
+3224,16-Jan,Steeves,John/Janet,F,1261 Safari Road,Milgrove,ON,L0R 1V0,905-892-9014,jsteeves@bellnet.ca,ONTARIO,9-May,Niagara,2009
+3230,16-Jan,Le Goff,Claude,S,960 12 Avenue,Lachine,QC,H8S 3J6,514-637-8922,clg@videotron.ca,QUEBEC,9-May,Cyno Sport,2009
+3234,16-Jan,Turgeon/Godbout,Liliane/Patrick,F,"397, Chemin Saint Robert",Saint-Robert,QC,J0G 1S0,450-782-3034,info@xmassheps.ca,QUEBEC,9-May,Estrie,2009
+3235,16-Jan,Rollox,Christopher,S,"4385 Sheppard Ave. E., Unit #11",Scarborough,ON,M1S 1T9,416-558-1448,train@geminik9.com,ONTARIO,9-May,,2009
+3238,16-Jan,Strickland,Dawn,S,43A Boggan's Lane,CBS,NL,A1W 5V3,709-687-9734,stricklanddawn151@gmail.com,EAST,9-May,Newfoundland Sch H Club,2009
+3240,16-Jan,Renaud,Robert,S,763 Des Marquises,Beloiel,QC,J3G 6M6,514-234-5857,rrenaud2@sympatico.ca,QUEBEC,9-Jun,Estrie,2009
+3248,16-Jan,Sulley,Brian,S,68 Virginia Pl.,St. John's,NL,A1A 3G9,709-693-0848,bsulley@nl.rogers.com,EAST,9-Jun,Newfoundland Sch.H Club,2009
+3259,16-Jan,Wittgruber,Rocco,S,1630 Quail Road,Williams Lake,BC,V2G 4X5,250-989-4913,roccowittgruber902@hotmail.com,WEST,9-Jul,,2009
+3260,16-Jan,Michlin,Paul,S,420 Brewer Road,Cary Plantation,ME ,04471 USA,207-532-7297,gsds@mfx.net,FOREIGN,9-Jul,CNBSC,2009
+3261,16-Jan,Clark,Jennifer,S,849 West Dumfries Road,Paris,ON,N3L 3E2,519-442-1290,clarksk9s@yahoo.com,ONTARIO,9-Jul,York  ?,2009
+3270,16-Jan,Bullinger,Tracy,S,25655 12th Ave.,Aldergrove,BC,V4W 2J7,604-856-8536,bullingershepherds.com,WEST,9-Jul,WRSC,2009
+3277,16-Jan,Biggs,Jill,S,108 Banning St.,Thunder Bay,ON,P7B 3H9,807-933-4884,jbiggs@tbcdsb.on.ca,ONTARIO,9-Aug,Thunder Bay,2009
+3296,16-Jan,Parrill,Paula,S,56 Prestige Dr.,Lincoln,NB,E3B 7J1,506-208-0442,paulaparrill@rogers.com,EAST,9-Oct,Central NB,2009
+3301,16-Jan,Greer,Alex,S,1025 Ducharme St.,Windsor,ON,N9G 1L1,519-969-7021,swickens675@cogeco.ca,ONTARIO,9-Oct,Windsor,2009
+3307,16-Jan,Sweeney,Bonnie,S,581 Route 8 ,Durham Bridge,NB,E6C 1K3,506-457-0052,bsweeney@nb.sympatico.ca,EAST,9-Oct,CNBSC,2009
+3315,16-Jan,Naylor,Susan,S,2442 Jinglepot Road,Nanaimo,BC,V9R 6W3,250-753-0035,snaylor@showbiz.ca,WEST,9-Nov,Pacific Schutzhund      ,2009
+3339,16-Jan,Williams/Rivers,Bill/Dyanne,F,297 Parkview Avenue,Toronto,ON,M2N 3Z3,416-730-9767,billwilliams@rogers.com,ONTARIO,10-Mar,York,2010
+3345,16-Jan,Au,Raymond,S,61 Woodheath Lane,New Market,ON,L3Y 4W1,905-887-6537,raymond@taknology.com,ONTARIO,10-Mar,Capital City,2010
+3350,16-Jan,Sierig,Peter/Ute,F,Box 476,Wildwood,AB,T0E 2N0,780-325-2437,Herculesk9@gmail.com,PRAIRIES,10-Mar, ,2010
+3351,16-Jan,Melski Donovan  ,Petrina ,S,8 Canerbury Court,Quispamsis,NB,E2E 0N1,506-333-9764,shylo_paris@hotmail.com,EAST,10-Mar,Fundy,2010
+3361,16-Jan,Lachance Dubuc,Maxime,S,62 rue messier,St-Louis-sur-Richelieu,QC,J0G 1K0,450-278-2669,mdubuc@tlb.sympatico.ca,QUEBEC,10-Apr,Estrie,2010
+3365,16-Jan,Béland,Janin,S,1357 Chemin St-Jean,St-Nicolas,QC,G7A 1A4,418-836-9233,kraftig@sympatico.ca,QUEBEC,10-May,Ste-Foy,2010
+3366,16-Jan,Grainger / Pisz,Mary/Peter,F,21533 Township Road 520,Sherwood Park,AB,T8E 1E3,780-920-8757,brt1maryg@yahoo.ca,PRAIRIES,10-May,GSDCE,2010
+3369,16-Jan,Bowden,Henry (Hank),S,8660 Ormiston Rd,Blackstock,ON,L0B 1B0,905-261-6518,hank@bowdentransport.com,ONTARIO,10-May,SSGSSC,2010
+3375,16-Jan,Haines,Neil,SY,48 Carlton Cres,Omemee,ON,K0L 2W0,705-799-1658,chaines480@hotmail.com,ONTARIO,10-May,Durham,2010
+3387,16-Jan,Kalinkina,Olga,S,15539 The Gore Road,Caledon,ON,L7E 0X3,,okalina2401@gmail.com,ONTARIO,10-May,Scarborough,2010
+3398,16-Jan,Fruh,Irina,S,575 Lucien L'allior  106,Montreal,QC,H3C 4L3,514-931-9932,irfr@hotmail.de,QUEBEC,10-Jun,Mirabel,2010
+3399,16-Jan,Mattson/Priestley,Randy/Laura,FY,32 Maple Street,Whitehorse,YT,Y1A 4A8,867-668-6118,mattson@northwestel.net,WEST,7-Mar,Yukon Sch Assoc,-2010
+3407,16-Jan,Plesa,Frank A.,S,2594 Bumford Trail,Missisaugua,ON,L5M 5E2,905-819-9408,frankplesa@rogers.com,ONTARIO,10-Jun,Niagara,2010
+3419,16-Jan,Dinsmore,Jack,S,30 Locks Road,Brantford,ON,N3S 6Y9,519-802-3643,shandra.dyson@live.ca,ONTARIO,10-Jun,Niagara,2010
+3430,16-Jan,Gray,Nicole / Dean,F,9 Snowdrop Court,Leduc,AB,T9E 0H5,780-980-9806,doberdiva@gmail.com,PRAIRIES,10-Jul,GSDCE,2003
+3433,16-Jan,Anthony,Monica,S,265 Kent Cres,Burlington,ON,L7L 4T2,905-580-7336,monicaanthony@hotmail.com,ONTARIO,10-Aug,Niagara,2010
+3434,16-Jan,Champagne/Laliberte,Jean-Christian/Lina,F,8955 Des Forges,Trois Rivieres,QC,G8Y 4E6,819-373-6070,christian.champagne@cgocable.ca,QUEBEC,10-Aug, ,2010
+3436,16-Jan,Kocsis,Susie,S,1352 Route 19,New Dominion,PEI,C0A 1H6,902-675-3792,skocss.ns@gmail.com,EAST,10-Aug,PEI Sch H Club,2010
+3446,16-Jan,Kraushar,Cindy,S,6350 Brewer Road,Coldstream,BC,V1B 3G3,250-503-3011,espionage13@hotmail.com,WEST,10-Aug,Okanagan WD Club/Western Rescue,2010
+3456,16-Jan,Kemick,Stephen/Susanne,F,9626  80 Street,Ft. Saskatchewan ,AB,T8I 3H1,780-245-3647,kemick.stephen@gmail.com,PRAIRIES,10-Sep,GSDCE,2010
+3457,15-Sep,Giuliani/Cascione,Fabrizio/Antonella,F,4616 - 141 Street,Edmonton,AB,T6H 3Z8,780-436-7838,giuliani@me.com,PRAIRIES,10-Sep,GSDCE,2010
+3458,16-Jan,Stemp,Jim/Julia,F,11 Shortill Road,Ballinafad,ON,N0B 1H0,905-702-1660,jstemp@sympatico.ca,ONTARIO,10-Sep,Saugeen,2010
+3466,16-Jan,Snow,Peter,S,78 Heathcote Ave,London,ON,N6G 1V5,519-641-2800,psnow@syndicon.on.ca,ONTARIO,10-Sep, ,2010
+3468,16-Jan,Benoit,Christiane,SY,207 Crown Road,Edmonton,AB,T6J 2E2,780-292-0779,cbfamilydog@gmail.com,PRAIRIES,10-Sep,GSDCE,2010
+3473,16-Jan,Noseworthy,Shana,S,581 Route 8 ,Durham Bridge,NB,E3G 0Z9,`506-260-3565,shana_99@hotmail.com,EAST,10-Oct,CNBSC,2010
+3475,16-Jan,Heald,Ken ,S,3507 Rosslyn Road ,Rosslyn,ON,P7K 0P9,807-939-2111,ken.heald@investorsgroup.com,ONTARIO,10-Oct,Thunder Bay Sch Club,2010
+3481,16-Jan,Parsons,Angie,S,9 Wellon Drive,Deer Lake,NL,A8A 2G6,709-635-5959,info@royalk9.ca,EAST,10-Oct,NFLDSC,2010
+3487,16-Jan,Paul,Daniel/Johanne Brunelle,F,46 Ch St. Andre,St. Jean-sur-Richelieu,QC,J2W 1T5,450-348-3366,info@lespecialiste.duchien.com,QUEBEC,10-Nov,Rive Sud,2010
+3493,16-Jan,Leblanc,Eric,S,230 Cornwall Road,Shediac ,NB,E4P 1P3,516-532-3650,eleblanc@nbnet.ca,EAST,11-Jan,ECWDC,
+3494,16-Jan,Cottle,David,S,RR2 Site 23  Box 107,Strathmore,AB,T1P 1K5,403-619-6248,taichidad@gmail.com,PRAIRIES,8-Oct,Chinook,2011
+3497,16-Jan,Diker,Boris,S,199 Roseborough Crescent,Thornhill,ON,L4J 4V7,905-881-8294,b_diker@hotmail.com,ONTARIO,11-Jan,Capital City,2009
+3502,16-Jan,Hrouda,Caroline,S,1210 Millview Rd SW,Calgary,AB,T2Y 2C7,403-220-9181,chrouda@shaw.ca,PRAIRIES,11-Feb,GSDC Calgary,2011
+3503,16-Jan,Boni,Sarah,S,218 Compton Ave,Ottawa,ON,K2B 5A9,613-898-0689,cank9@rogers.com,ONTARIO,11-Feb,IPO Ottawa,2011
+3505,16-Jan,Mailloux,Josee,S,590 Rg Rhimbeault,Ste-Victoire-de-Sorel,QC,J0G 1T0,450-422-0616, ?,QUEBEC,11-Feb,Estrie,2009
+3508,16-Jan,Cusson,Jean-Luc,S,890 Laval,Drummondville,QC,J2B 4G6,819-477-1671,jecusson@cgocable.ca,QUEBEC,11-Mar,Estrie,2011
+3509,17-Jan,Hazlett,Ann,S,876 Low Rd,Kemptville,ON,K0G 1J0,613-445-1692,ahazlett@ibal.ca,ONTARIO,11-Mar, ,2011
+3510,16-Jan,Hoffman,Brad/Jennifer   ,F,6782 Westview Drive,Delta,BC,V4E 2L8,778-227-5537,brad.hoffman@ubc.ca,WEST,11-Mar,LMGSDC,2011
+3513,16-Jan,Grossman,Mark,S,625 Oriole Parkway,Toronto,ON,M4R 2B9,416-486-7409,markiegrossman@gmail.com,ONTARIO,11-Mar,Toronto Sch H Club,2011
+3520,16-Jan,Brucks,Joanne,S,2639 Misty Cres.,Williams Lake,BC,V2G 4W9,250-398-7727,jbrucks@xplornet.ca,WEST,11-Mar,,2011
+3522,16-Jan,Readman,Kelly,S,RR#2 Site 23 Box 107,Strathmore,AB,T1P 1K5,403-703-5084,kellyreadman@hotmail.com,PRAIRIES,11-Apr,Chinook,2011
+3524,16-Jan,Eng,Marvin/Penny,FY,5542 St. John's Sideroad,Stouffville,ON,L4A 7X4,   647-242-7643,marvineng@bell.net,ONTARIO,Jun-00,Synergy,2011
+3527,16-Jan,Mak,Angus,S,82 Cassandra Blvd.  Unit 01,North York,ON,M3A 1S6,416-836-3860,makangus@gmail.com,ONTARIO,11-Apr,Synergy,2011
+3531,16-Jan,Cho,Peter,S,25700  116 Ave. ,Maple Ridge,BC,V4R 1Z6,604-722-3079,pcho67@hotmail.com,WEST,11-May,WCGSSC,2010
+3536,16-Jan,Malone/Comeau,Sherri/Dale,F,16 Bloomfield Ridge North Road,Bloomfield,NB,E5N 4S1,506-832-7482,nippers@nbnet.nb.ca,EAST,10-Mar,Fundy,2011
+3545,16-Jan,Penney,Blain,S,41 Sweetenwater Crescent,"Manuels, CBS",NL,A1W 4T2,709-834-0943,blainp@nf.sympatico.ca,EAST,11-Jun,NFLDSC,2007
+3547,16-Jan,Burnett,Shelley,S,5111 58B Street,Delta,BC,V4K 3J6,604-946-8004,shelleyb4t@gmail.com,WEST,10-Mar,LMGSDC,2010
+3557,17-Jul,Rawlinson,Shanon,S,1315 Avenue N,Ottawa,ON,K1G 0A7,613-748-5640,trotshanon@gmail.com,ONTARIO,10-May,Durham,2011
+3564,16-Jan,Wing,Daniel,S,#10 Laurier Cres.,St Albert,AB,T8N 1M7,780-419-2469,dbwing@shaw.ca,PRAIRIES,11-Jul,GSDCE,2011
+3566,16-Jan,Wilton,Ralph,S,2038 Eldorado Place,Abbotsford,BC,V2S 5K4,604-504-7009,wiltonralph@gmail.com,WEST,11-Jul,,2011
+3567,16-Jan,Lefebvre,Camille-Audree,S,2510 Chemin des lacs,Notre-Dame-de-la-Merci,QC,J0T 2A0,514-771-0080,camille.a.l@hotmail.com,QUEBEC,11-Jul,Pro Sport,2011
+3569,16-Jan,Matouskova/Matousek,Lenka / Roman,F,1507 North Vernon Avenue,London,ON,N5X 1N7,519-675-1115,lenka.matouskova@sympatico.ca,ONTARIO,10-May,,2011
+3575,16-Jan,Griffin,Corinne,S,Box 31,Linden,AB,T0M 1J0,403-815-4730,barleyfishphoto@telus.net,PRAIRIES,11-Aug,GSDCC,2011
+3576,16-Jan,Murphy,Kathleen,S,1909-269A Street,Langley,BC  ,V4W 2S5,778-294-4538,kathy.murphy1@yahoo.ca,WEST,11-Aug,Delta,2011
+3580,16-Jan,Fraser,Crystal,S,8402  97 Street,Morinville,AB,T8R 0A6,780-235-8631,cgfraser@ualberta.ca,PRAIRIES,11-Aug,GSDCE,2011
+3588,16-Jan,Ducasse/Juteau,Raymond/Josee,FY,2510 Chemin des Lacs,Notre-Dame-de-la-Merci,QC,J0T 2A0,819-424-4867,animauxacteurs@yahoo.ca,QUEBEC,11-Sep,Pro Sport,2011
+3590,17-Sep,Kohlman,Jeffrey,S,377 Meadowview Terrace,Sherwood Park,AB,T8H 1X6,780-951-3915,jeffkohlman_1@hotmail.com,PRAIRIES,11-Sep,GSDCE,2011
+3602,16-Jan,Vergolst,Richard,S,2 Callen Court,Ajax,ON,L1S 3B1,905-683-3043,dick.vergolst@sympatico.ca,ONTARIO,11-Sep,Scarborough,2011
+3603,16-Jan,Ducasse ,Eva,S,6675 Avenue des Perron,Laval,QC,H7J 1G3,514-815-8069,eva211@live.fr,QUEBEC,11-Oct,,2011
+3605,16-Jan,Souchon,Laurent,S,3761 Lafontaine,Montreal,QC,H1W 1V8,514-759-0366,nam12587@msn.com,QUEBEC,14-Oct,,2014
+3606,16-Jan,Lauzon,Marc-Andre,S,1 rue Menard,Grenville sur la Rouge,QC,J0V 1B0,819-242-7912,lauzer_1@msn.com,QUEBEC,11-Oct,Mirabel,2010
+3610,16-Jan,Dyson,Shandra,S,30 Locks Road,Brantford,ON,N3S 6Y9,226-922-9356,shandra.dyson@live.ca,ONTARIO,11-Oct,Niagara,2011
+3612,16-Jan,Habke,Shirley,S,190 50356 RR#232,Leduc County,AB,T0B 3M1,780-554-9969,shabke44@hotmail.com,PRAIRIES,6-Jul,GSDCE,
+3614,16-Jan,Pedosuk,John,S,3531 Weston Rd,Kelowna,BC,V1X 6K4,250-826-6945,john.pedosuk@gmail.com,WEST,9-Oct,,2009
+3615,16-Jan,Pare,Hugo,S,292 Gravel,St-Eustache,QC,J7P 4K9,450-473-4402,googready@hotmail.com,QUEBEC,11-Oct,Mirabel,2011
+3627,16-Jan,Aldred,Beverly [BG],S,3210 Glenmore Road,Kelowna,BC,V1V 2B5,250-766-1052,kiefertal@gmail.com,WEST,11-Nov,Okanagan Working Dog Club,2011
+3631,16-Jan,Cheung,Erica,S,807-173 Street SW,Edmonton,AB,T6W 0M7,780-707-3867,erica@ualberta.ca,PRAIRIES,11-Nov,ASA,2009
+3633,16-Jan,Palmer,Adrienne ,S,205 Douglasbank Mews,Calgary,AB,T2Z 2J5,403-710-5789,adrienne.l.palmer@gmail.com,PRAIRIES,11-Dec,Chinook,2011
+3634,16-Jan,Schmelzer,Isabelle,S,11 Brakes Road,Corner Brook,NL,A2H 3P8,709-785-1571,torngat@gmail.com,EAST,10-Oct,NFLDSC,2011
+3635,16-Jan,Jones ,Susan,S,17469 100 Ave.,Surrey,BC,V4N 4L2,604-802-3054,sujones1963@gmail.com,WEST,9-May,,2011
+3639,16-Jan,Carlsen,Diane,S,51 Doris Cres.,Newmarket,ON,L3Y 7V3,289-264-6180,dcarlsen@lunottcaretail.com,ONTARIO,12-Jan,Saugeen,2010
+3640,16-Jan,Samson/Gelinas,Nancy/Junior,F,2580 Boul Thibeau,Trois-Rivieres,QC,G8T 1G2,819-375-8966,,QUEBEC,12-Jan,Pro-Sport,2006
+3643,16-Jan,Sanders,Barb,S,1364 McTavish Rd,North Saanich,BC,V8L 5T3,250-656-5046,barbsanders@gmail.com,WEST,12-Jan,,2012
+3646,16-Jan,Totz,Linde,S,14 Butterfield Cres.,Whitby,ON,L1R 1J2,905-666-3984,linketotboss@yahoo.ca,ONTARIO,12-Jan,Durham,2009
+3648,16-Jan,Gray,Maureen,S,37 Jaffa Ave,Candiac,QC,J5R 3R4,450-638-3681,moe-bee@hotmail.com,QUEBEC,12-Jan,IPO Ottawa,2012
+3649,16-Jan,Wu,Nelson,S,3073 West 34th Ave.,Vancouver,BC,V6N 2K1,604-436-4624,nelsonwu@shaw.ca,WEST,10-Oct,Delta,2012
+3651,16-Jan,Roul,Duane,S,89 Jadry Court,Hammonds Plains,NS,B4B 0A1,902-422-0863,dmroul@hotmail.com,EAST,12-Feb,ECWDC,2012
+3653,16-Jan,Milutinovic,Radmilo,S,185 Corbett Cres,Aurora,ON,L4G 2G1,647-821-8500,radmilo@sympatico.ca,ONTARIO,12-Mar,York,2012
+3654,16-Jan,Couture,Lance ,S,6778 Vivian St,Vancouver,BC,V5S 2T6,604-879-8770,lcc@shaw.ca,WEST,9-May,Delta,2012
+3655,16-Jan,Teoli,Eric,S,1508 Principale Est,Farnham,QC,J2N 1N4,450-293-2601,ericteoli-maitrechien@videotron.ca,QUEBEC,12-Mar,Estrie,2012
+3656,16-Jan,Fredrickson,Margaret,S,6257 Route 19,Canoe Cove,PEI,C0A 1H7,902-367-3700,margie@whitelands.com,EAST,12-Mar,PEI Schutzhund,2006
+3657,16-Jan,Travers,Sabina,S,2844 Sooke Rd,Victoria,BC,V9B 1Z1,250-479-1544,sabina-ct@hotmail.com,WEST,12-Mar,Pacific Sch H Dog Club,2012
+3661,16-Jan,Boulet,Mary Anne,S,1908 Highway 69N,Val Caron,ON,P3N 1M1,705-897-5877,versatilegsds@gmail.com,ONTARIO,12-Mar,,2012
+3667,16-Jan,Satov,Laurel,S,2840 Honsberger Ave,Jordan Station,ON,L0R 1S0,905-562-7923,lmsatov@bell.net,ONTARIO,12-Apr,Niagara,2012
+3668,16-Jan,Gariepy,Yves,S,912 Principale,La Presentation,QC,J0H 1B0,450-796-4192,yves.gariepy@cgocable.ca,QUEBEC,12-Apr,Estrie,2012
+3671,16-Jan,Savard,Gilles,S,368 ch de Montford,St Adolphe-d'Howard,QC,J0T 2B0,514-778-2316,cherok2009@gmail.com,QUEBEC,12-Apr,IPO Sport,2012
+3674,16-Jan,Bianco,Leigh,S,14992 Warden Ave,Stouffville,ON,L4A 7X5,416-315-0155,biancoleigh@gmail.com,ONTARIO,12-Apr,Toronto Sch H Club,2012
+3679,16-Jan,Sweet,Caroline,S,9589 Highway 124  ,Erin,ON,N0B 1T0,519-833-0230,caroline@skycreative.ca,ONTARIO,12-Apr,Saugeen,2012
+3680,16-Jan,Turner,Anne,S,90 South Edgely Ave.,Scarborough,ON,M1N 3L1,416-696-9976,anne.turner@rogers.com,ONTARIO,12-May, ,2012
+3686,17-Jan,Grenon/Gonthier,Louis Christian/Andrée,F,3581 Route des Lacs,St-Elie-de-Caxton,QC,G0X 2N0,819-221-4237,laroussedurangcroche@hotmail.com,QUEBEC,10-Mar,Mirabel,2010
+3687,16-Jan,Trail,Chris,S,142 Randolph Street,Fredericton,NB,E3G 0H5,506-206-0734,trailchirs7@gmail.com,EAST,10-Apr,CNBSC,2010
+3688,16-Jan,Roy,Tony,S,6 Raspberry Lane,Richibuco Road,NB,E3A 6W9,506-461-8445,tonygsds@gmail.com,EAST,12-May,CNBSC,2012
+3689,16-Jan,Nesbitt,Patrick/Debra,F,134 Whitevale Road,Lumby,BC,V0E 2G7,250-275-5032,patwnesbitt@yahoo.com,WEST,12-May,Okanagan Working Dog Club,2012
+3704,16-Jan,Donnelly,Brian,S,#5  Whaley Drive,Etobicoke,ON,M8W 2N2,416-255-0974,briandonnelly@rogers.com,ONTARIO,12-Jul,Saugeen,2012
+3719,16-Jan,Binning,Jim,SY,958 Rambleberry Avenue,Pickering,ON,L1V 5Y5,647-770-6123,theojb@outlook.com,ONTARIO,12-Sep,Peterborough,2012
+3723,16-Jan,MacDonald,Alastair Scott,S,"1280 Ch. Ste. Andre, RR#2",Embrun,ON,K0A 1W0,613-407-3582,scottmacd@gmail.com,ONTARIO,11-Sep,,2011
+3724,16-Jan,Di Giuseppe,Sam,S,90 Oakhaven Drive,Markam,ON,L6C 1X9,416-723-9951,sammydigi1@hotmail.com,ONTARIO,12-Sep,Toronto Sch H Club,2012
+3729,16-Jan,Holowaychuk,Cathryn,S,86 Foxhaven Way,Sherwood Park,AB,T8A 6N4,780-464-4765,amigodog@shaw.ca,PRAIRIES,11-Jul,GSDCE,2011
+3739,16-Jan,Thijssen,Harrie ,S,228 Carlisle Road,Douglas,NB,E3G 7N8,506-454-1131,lorettarose@bellaliant.net,EAST,12-Oct,Central NB,2012
+3740,16-Jan,Hillier,Kristie,S,PO Box 741,Goulds,NL,A1S 1G7,709-748-5389,kristie_hillier@hotmail.com,EAST,12-Oct,NFLSC,2012
+3744,16-Jan,Readhead,Anne,S,101 Lewis Street,Welland,ON,L3B 4V6,905-735-6971,annereadhead@itcanada.com,ONTARIO,12-Oct,,2012
+3745,16-Jan,Sulston,Chris,S,1980 Gravel Drive,Greater Sudbury,ON,P3P 1R7,705-507-7678,cjsulston@gmail.com,ONTARIO,12-Oct,Saugeen,2012
+3749,16-Jan,Brown,Jean ,S,1315 Aldersbrook Road,London,ON,N6G 3J1,519-473-9939,jean@midnightsolo.com,ONTARIO,9-Jun,London Schutzhund Club,2012
+3750,16-Jan,Fleming,Angela,S,947 Wentworth Road  RR#1,Windsor,NS,B0N 2T0,902-792-1725,dio@eastlink.ca,EAST,10-Aug,ECWDC,2007
+3758,17-Jan,Vaillant/Roy,Anick/Frankie,FY, 605 Winchester Road. W,Whitby,ON,L1M 1V3,289-893-0306,anick.vallant@yahoo.com,ONTARIO,12-Nov,Scarborough,2009
+3764,16-Jan,Gorka,Waldy,S,720 22 Avenue N,Cranbrook,BC,V1C 5J2,250-426-4306,valdy@shaw.ca,WEST,12-Dec,,2012
+3765,16-Jan,Develay,Marie-Helene,S,25 Chemin du bouton d'or,Mont-tremblant,QC,J8E 2B1,819-717-6383,helenedevelay@gmail.com,QUEBEC,13-Jan,Mirabel,2013
+3767,16-Jan,Gosse,Karen,S,110 Quigleys Lane,Torbay,NL,A1K 1A5,708-437-1889,karenagosse72@yahoo.ca,EAST,13-Jan,Newfoundland Sch H Club,2013
+3768,16-Jan,Webster,Chandra,S,331 Forced Road,Russell,ON,K4R 1E5,613-552-2833,dogteam8@gmail.com,ONTARIO,13-Jan,Mirabel,2013
+3770,16-Jan,Serrani,Mario,S,91 Theobalds Circle,Richmond Hill,ON,L4C 9E1,416-671-6090,marioserrani@rogers.blackberry.net,ONTARIO,13-Jan,York,2013
+3774,16-Jan,Sikorski,Ron,S,537 Avenue T  South,Saskatoon,SK,S7M 3B5,306-978-7868,superron@sasktel.net,PRAIRIES,13-Feb,Central Plains,2013
+3780,16-Jan,Subaseanu,Daniel,SY,51 Tecumseh Drive,Aurora,ON,L4G 2X2,416-830-5996,stefan@doggotraining.com,ONTARIO,13-Mar,Scarborough,2013
+3782,16-Jan,Dool,Jerry,S,31 Haverhill Terrace,Aurora,ON,L4G 7R7,905-726-1178,jerry_dool5557@hotmail.com,ONTARIO,13-Mar,York,2013
+3787,16-Jan,Graham,Sheri,S,1511 Dickson Avenue,Kelowna,BC,V1Y 4B6,250-717-1370,01graham@telus.net,WEST,1-Mar,,2013
+3797,16-Jan,Perusse,Sonia,S,425 Rang St-Felix,Notre-Dame du Mont-Carmel,QC,G0X 3J0,819-384-8171,faithfullbull@hotmail.com,QUEBEC,13-Apr,Mirabel,2011
+3798,16-Jan,Zurberg,Teresa ,S,12087 McIntyre Court,Maple Ridge,BC,V2X 8M8,604-839-3050,teamzurberg@gmail.com,WEST,13-Apr,WCGSSC,2011
+3800,16-Jan,Hausmann,Fred,S,25 Carnation Avenue,Etobioke,ON,M8V 2J8,877-953-7733,fredhausmann@me.com,ONTARIO,13-Apr,Saugeen,2013
+3801,16-Jan,Leduc,Lucie,S,1042  Rue Prescott,St-Jean-Sur-Rivhelieu,QC,J3A 1Z8,450-349-9713,ernestleduc@hotmail.com,QUEBEC,13-Apr,Cyno Sport,2013
+3802,16-Jan,Furiato,Lou,S,3349 Adjala Tecumseth Townline,Beeton,ON,L0G 1A0,416-662-1611,frischi@live.com,ONTARIO,13-Apr,,2011
+3807,16-Jan,Macleod,Debbie,S,2748 Twilight Way,Nanaimo,BC,V9X 1H3,250-755-1599,debbie-macleod@shaw.ca,WEST,13-Apr,,2013
+3808,16-Jan,Tramley-Seymour,Ellen ,S,1856 Woodstock Road,Fredericton,NB,E3C 1L4,506-470-2876,etramlc628@rogers.com,EAST,13-May,CNBSC,2009
+3809,16-Jan,Harker,Roxanne,S,3861 Route 16,Melrose,NB,E4M 2H1,506-866-0645,stormymagicshepherds@hotmail.com,EAST,13-May,PEI Schutzhund Club,2013
+3810,16-Jan,Reaume                            ,Suzy,S,732 Krosna Blvd,Pickering,ON,L1W 1G3,905-550-4071,suzyreaume@yahoo.ca,ONTARIO,13-May,York,2013
+3811,16-Jan,Pominville,Serge,S,424 Comtois,Otterburn Park,QC,J3H 3Z7,450-714-4164,spominville1@gmail.com,QUEBEC,13-May,Estrie,2013
+3816,16-Jan,Thorne,Tiffany,S,1487 Salisbury Rd,Moncton,NB,E1E 4P5,506-854-2390,tiffany_??@yahoo.ca,EAST,13-May,Central NB Sch H Club,2013
+3818,16-Jan,Van Pelt,Bernie,S,11129 Greystead Drive  ,Denfield,ON,N0M 1P0,519-666-2783,bvanpelt@sympatico.ca,ONTARIO,13-May,London Schutzhund Club,2010
+3820,16-Jan,Talbot,Wendy,S,1159 King Georges Park Drive,Rosslyn,ON,P7K 0V7,807-474-3187,wtalbot@norwestchc.org,ONTARIO,13-May,Thunder Bay,2013
+3822,16-Jan,Hermane,Anna,S,11522-141A Street,Surrey,BC,V3R 3K5,778-887-5086,micesunn@gmail.com,WEST,13-Jun,WCGSSC,2013
+3825,16-Jan,Campbell,Sherri ,S,Box 5 Stewart Lake Road N,RR #1 Dorion,ON,P0T 1K0,807-857-1719,gemline@xplornet.ca,ONTARIO,13-Jun,Thunder Bay Schutzhund Club,2013
+3830,16-Jan,Plourde,Sylvie,S,651 Amelie,Trois-Rivieres,QC,G8T 1A6,819-373-8015,sylvie_plourde@videotron.ca,QUEBEC,13-Jun,Pro Sport,2013
+3833,16-Jan,Pechnkov,Daniel,S,80 Gar Lehman Avenue,Stouffville,ON,L4A 0W9,416-575-3739,dpech75@gmail.com,ONTARIO,13-Jun,Scarborough,2013
+3840,16-Jan,Zimmermann,Werner,S,1941 Queensdale Avenue,Gloucester,ON,K1T 1J9,613-738-9547,,ONTARIO,13-Jul,,2013
+3841,16-Jan,Simser,Daniel,S,8621 McCaffrey Trail,Ashton,ON,K0A 1B0,613-253-1702,thesimsers@gmail.com,ONTARIO,13-Jul,IPO Ottawa,2013
+3842,16-Jan,Dupont,Patrice,S,4001 chemin del a Riviore-perdue,Wentworth-Nord,QC,J0T 1Y0,450-226-5521,dupp5521@hotmail.com,QUEBEC,13-Jul,IPO Ottawa,2013
+3846,16-Jan,Vanderveen,Pim,S,415 Victor Court,Pickering,ON,L1W 3J7,905-492-4229,pim@rogers.com,ONTARIO,13-Aug,,2013
+3855,16-Jan,Ferguson,Randy,S,"RR #2,  1220 Leland Road",Perth Road Village,ON,K0H 2L0,613-353-6523,lrferguson@xplornet.ca,ONTARIO,13-Sep,,2013
+3860,16-Jan,Guay,Gerald,S,135 Chemin Black,"Mille-Isles, QC",QC,J0R 1A0,450-436-8517,geraldguay@hotmail.com,QUEBEC,13-Sep,,2013
+3864,16-Jan,Cormier,Annie,S,424 Rue Comtois,Otterburnpark,QC,J3H 3Z7,514-926-7583,cormini@hotmail.com,QUEBEC,13-Oct,,2013
+3866,16-Jan,Atchison,Ann,S,4352 Middleton Road,Saskatoon,SK,S7T 1A9,306-477-1919,sunshadows@shaw.ca,PRAIRIES,13-Nov,Central Plains,2013
+3867,16-Jan,Roy,Andree,S,219  26 Avenue,Ste-Anne-de-Sabrevois,QC,J0J 2G0,450-347-5704,andree.roy411@gmail.com,QUEBEC,13-Nov,Rive Sud,2013
+3870,17-Jan,Lister,Andrea,S,154 Clarke Road,Paris,ON,N2L 2E1,519-760-0336,alister@uoguelph.ca,ONTARIO,13-Nov,Saugeen,2007
+3873,16-Jan,Chibi,Mike,S,300 County Road 34E  RR#2,Ruthuen,ON,N0P 2G0,519 816-8121,cccollision1@bellnet.ca,ONTARIO,13-Dec,Windsor,2013
+3874,16-Jan,Jackman,Mike/Ann,F,705 Little Britton Road,Little Britton,ON,K0m 2C0,705-786-9767,mike.jackman@sympatico.ca,ONTARIO,13-Dec,Peterborough,2013
+3876,16-Jan,Tolley,Crystal,S,5401 Thunder Road,Carlsbad Springs,ON,K0A 1K0,613-266-3513,crystal@tolley.ca,ONTARIO,13-Dec,IPO Ottawa,2013
+3878,16-Jan,Tulk,Lisa,S,PO Box 223,Mt Uniacke,NS,B0N 1Z0,902-877-8193,lbudge11@estlink.ca,EAST,14-Jan,ECWDC,2014
+3880,17-Jan,Lee,Jong  Chul,S,#62-1338 Hames Crescent,Coquitlam,BC,V3E 0J2,778-809-5788,Q,WEST,14-Jan,Delta,2014
+3881,16-Jan,Mills,Jean-Philippe,S,501 Bellefeuille,Lavaltrie,QC,J5T 3X2,514-770-3161,jpmills267@hoymail.com,QUEBEC,14-Jan,Mirabel,2014
+3883,16-Jan,MacLeod,Heather,S,Civic# 2678  Hwy 236,Old Barns,NS,B6L 1K3,902-897-4301,iceandadvice@eastlink.ca,EAST,14-Jan,ECWDC,2014
+3884,16-Jan,Deslauriers,Jennifer,S,255 Scugog Line 6,Port Perry,ON,L9L 1B2,905-985-3461,3deslauriers@gmail.com,ONTARIO,14-Jan,,2014
+3887,16-Jan,Cote  ,Francis ,S,491 La Grande Caroline,Rougemont,QC,J0L 1M0,514-796-4993,frank.cote77@hotmail.com,QUEBEC,14-Jan,Mirabel,2014
+3890,16-Jan,Belzile,Jean,S,127 Thorncastle,Lutes Mountain,NB,E1G 0S6,506-204-4986,jeanxxbelzile@hotmail.com,EAST,14-Jan,PEISC,2014
+3891,17-Jan,Auld/Hyatt,Frank/Racine,F,4145 Sixteen Road RR#1,St Anns,ON,L0R 1Y0,905-957-2797,4racine@gmail.com,ONTARIO,14-Feb,,2014
+3894,17-Jan,Szczepaniak,Izabella,S,Box 525,Leader ,SK,S0N 1H0,306-628-7413,iza.szczepaniak83@gmail.com,PRAIRIES,14-Feb,,2014
+3896,16-Jan,Sheehan,John,S,25655  12th Avenue,Aldergrove,BC,V4W 2J7,360-306-1831,,WEST,14-Mar,Western Rescue,2014
+3897,16-Jan,Roussel,Yves,S,112 Chanuine-Graulx,St-Francois X Brompton,QC,J0B 2V0,514-233-5728,yvesroussel@axia.ca,QUEBEC,14-Mar,Estrie,2014
+4003,16-Jan,Boucher/Cooper,Michelle/Jim,F,125 Queen Victoria Dr A-14,Hamilton,ON,L8W 2C1,905-389-0507,jcooper009@sympatico.ca,ONTARIO,14-Mar,,2011
+4004,16-Jan,Young,Alex,S,1909 269A Street ,Aldergrove,BC,V4W 2S5,604-751-6920,alexyoungdobiedog@hotmail.com,WEST,14-Mar,Delta,2014
+4005,16-Jan,Hennessey,Paul,S,113 Ski Hill Rd,Bethany,ON,L0A 1A0,705-928-3127,paulhennesseny@mail.com,ONTARIO,14-Apr,Durham,2014
+4006,16-Jan,Marchand,Karine,S,3660 Leonard,Trois-Rivieres,QC,G9B 2B1,819-269-0521,karinee_021@hotmail.com,QUEBEC,14-Apr,Cyno Sport,2014
+4010,16-Jan,Cashmore/Penner Cashmore,Len/Susan,F,Site 1 Box 20 RR#1,Leduc,AB,T9E 2X1,780-886-1518,len_suecashmore@yahoo.ca,PRAIRIES,14-Apr,GSDCE,2009
+4011,16-Jan,Vallieres,Yanick,S,204 Chemin Denommee,Melbourne,QC,J0B 2B0,819-821-0812,yanick.vallieres@hotmail.com,QUEBEC,14-Apr,Estrie,2014
+4012,16-Jan,Papp,Lucia,S,4470 Muermann Rd,Prince George,BC,V2K 5V8,250-970-0225,Castlemd@pgonline.com,WEST,14-Apr,NBCSA,2014
+4013,16-Jan,Bergeron,Jocelyne,S,1772 Wellington Sud,Sherbrooke,QC,J1M 1K9,819-821-6059,info@kidjuukgsd.com,QUEBEC,14-Apr,Estrie,2014
+4014,16-Jan,Martin,Maxime,S,2618 Ave Bardy,Quebec,QC,G1J 4T9,418-455-5999,ineedsnow123@hotmail.com,QUEBEC,14-Apr,St-Foy,2014
+4016,16-Jan,Mowatt ,Yan L  ,S,36Jennifer Drive,Bible Hill ,NS,B2N 6S6,,yan@littlemoesk9academy.com,EAST,14-May,,2014
+4019,16-Jan,Leblanc,Mitch,S,10751 Springmont Dr,Richmond,BC,V7E 1W4,778-230-3255,supermitch@gmail.com,WEST,14-May,WCGSSC,2014
+4020,16-Jan,Anguish,Lasha,S,697 Coleos Place,Victoria,BC,V8Z 6G8,250-384-7015,lasha25@gmail.com,WEST,14-May,VRC,2014
+4021,16-Jan,Rivers ,Kourtney,S,198 White Pines Dr,Burlington,ON,L7L 4E4,289-288-3058,kourtney.rivers@gmail.com,ONTARIO,14-May,,2014
+4022,16-Jan,Gorka,Ewa,S,1924-12th Street south,Cranbrook,BC,V1C6M7,250-919-9686,ewagorka@hotmail.com,WEST,14-May,,2014
+4023,16-Jan,Yott,Terra,S,3369 St.Paul Ave,Niagara Falls,ON,L2J 2M3,905-708-5330,terrayott@yahoo.com,ONTARIO,15-Jan,Wainfleet,2015
+4025,16-Jan,Maye,Benoit,S,1 Rue Cloutier,St.Chrysostome,QC,J0S 1R0,514-927-0310,chienmalin@gmail.com,QUEBEC,14-May,,2009
+4026,16-Jan,Dion,Joanie,S,2614 Rue Pilette,Sherbrooke,QC,J1G 4G7,819-571-3329,info@divisioncanine.com,QUEBEC,14-May,Estrie,2014
+4027,16-Jan,Adam,Mark,S,20595 Eigg Rd,Alexandria,ON,K0C 1A0,613-525-9998,markfalcon@mac.com,ONTARIO,`May-14,,2014
+4028,16-Jan,Plavic,Peter,S,5068 10th Side Road ,Gilford,ON,L0L 1R0,647-287-3376,peterplavic@hotmail.com,ONTARIO,`May-14,York,2014
+4029,16-Jan,Plavic,Alex,S,6545 17th Side Road,Nobleton,ON,L0G 1N0,905-859-5149,aplavic@yahoo.com,ONTARIO,`May-14,York,2014
+4030,16-Jan,Moore,David,S,8265 Hwy 20 ,Smithville,ON,L0R 2A0,905-818-9614,davem_1@hotmail.com,ONTARIO,14-May,,2014
+4032,16-Jan,Brady,Diana,S,208 Bloomington Rd,Aurora,ON,L4G 0M2,905-717-0641,diana.brady@gowlings.com,ONTARIO,14-Jun,Synergy,2014
+4033,16-Jan,Fuller,Jane,S,4014 10th Side Road ,Bradford,ON,L3Z 2A5,905-775-2622,marvickennels@live.com,ONTARIO,14-Jun,York,2015
+4039,16-Jan,Baxter,Karen,S,185 Baldwin Rd,Baldwin,ON,L0E 1A0,289-383-4136,karen@goodasgoldk9school.com,ONTARIO,15-Jun,York,2014
+4040,16-Jan,Fluegge,Isis,S,145 Brackly Point Rd,Charlottetown,PEI,C1A 6Y7,,isisfluegge@hotmail.com,EAST,15-Jun,PEISC,2014
+4042,16-Jan,St-Louis,Patrick,S,2649 Fallingwater Cir.,Nepean,ON,K2J 0R6,613-276-5074,patrick@saintlouis.ca,ONTARIO,15-Jul,IPO Ottawa,2014
+4043,16-Jan,Ough,Tammy,S,19642 Wildwood Place,Pitt Meadows,BC,V3Y 1M9,778-882-7967,t_ough@yahoo.com,WEST,15-Jul,WCGSSC,2014
+4047,16-Jan,Paras,Aristotle/Dagmar,F,15121 9th Line ,Stouffville,ON,L4A 7X3,416-909-0929,info@balancedpaws.ca,ONTARIO,14-Jul,Saugeen,2014
+4049,16-Jan,Liu ,Sammy,S,15 Colty Dr.,Markham,ON,L6C 2W1,416-710-3812,liusammy88@gmail.com,ONTARIO,14-Jul,Capital City,2014
+4051,16-Jan,DaSilva,Shane,S,30 Kelvin Ave,Toronto,ON,M4C 5C8,647-228-8986,shane_dasilva@hotmail.com,ONTARIO,15-Aug,Scarborough,2014
+4053,16-Jan,Juhnke,Kordula,S,69406 Shipka Line,Dashwood,ON,N0M 1N0,519-294-6149,rkjuhnke@gmail.com,ONTARIO,14-Aug, ,1998
+4057,16-Jan,Randall,David,S,49 Arthur Rd,Heidelberg,ON,N0B 2M1,519-699-4840,dave_randall@hotmail.com,ONTARIO,14-Aug,,2014
+4062,16-Jan,Othman,Hazhaar,S,20-535 Winflower Cres,Kichener,ON,N2E 4L7,416-312-5940,hazhaaro@hotmail.com,ONTARIO,14-Aug,Saugeen,2014
+4065,16-Jan,Kovacs,Julianna,S,15695 10TH Concession,Schomberg,ON,L0G 7T0,905-751-7500,kovacs.jmarie@gmail.com,ONTARIO,14-Aug,York,2014
+4066,16-Jan,Touchette,Myriam,S,207 Rang St-Louis,Sherrington,QC,J0L 2N0,438-868-0259,myriamtouchette@hotmail.com,QUEBEC,14-Dec,,2014
+4068,16-Jan,Loxton,Tom/Julie,F,244 Sawgrass Place,Sarnia,ON,N7W 1C8,519-541-9539,loxtonj@hotmail.com,ONTARIO,14-Aug,,2014
+4069,16-Jan,Clarkson,Karen,S,670 Bishops Gate Road,Paris,ON,N3L 3E3,519-442-1463,petdgree@execulink.com,ONTARIO,10-Apr,,2014
+4071,16-Jan,Hamilton,Richard,S,781 Beverley St,Winnipeg,MB,R3E 2A7,204-470-1452,rhamilton67@hotmail.com,PRAIRIES,14-Aug,WWDC,2014
+4081,16-Jan,Van Hage,Sylvia,S,1930 Surgenor Rd S ,Black Creek,BC,`V9J 1G6,250-898-9774,sjvh88@gmail.com,WEST,14-Sep,Comox,2014
+4082,16-Jan,Bernier,Eric,S,2299 Ave de la Riviere Joune,Quebec,QC,G2N 1T4,418-953-5344,sloernier@hotmail.com,QUEBEC,14-Sep,St-Foy,2014
+4084,16-Jan,Senko,Stacey,S,PO Box 1420,Warman,SK,S0K 4S0,306-220-7766,stacey.senko@sasktel.net,PRAIRIES,14-Sep,,2014
+4085,16-Jan,Morin/Desautels,Anabelle/Sebastien,F,23 Oberon Street,Ottawa,ON,K2H 7K5,613-914-0096,anabelmorin@hotmail.com,ONTARIO,14-Sep,IPO Ottawa,2014
+4086,16-Jan,Nini,Mitch,S,1465 Rt 620 ,Estey's Bridge,NB,E3G 0N3,506-999-1985,mitch.nini@unb.ca,EAST,14-Sep,,2014
+4087,16-Jan,Goodwin-Nini,Diane,S,1465 Rt 620 ,Estey's Bridge,NB,E3G 0N3,506-461-0963,diane_2003_2@hotmail.com,EAST,14-Sep,,2014
+4090,16-Jan,Ficon,Jerzy George,S,1975 McKay Avenue,Windsor,ON,N9B 0A1,519-567-9551,jerzyficon@me.com,ONTARIO,13-Aug,Windsor Sch H Club,2013
+4091,16-Jan,Robbins,Glenn,S,57 Westpark Dr,Gloucester,ON,K1B 3G4,613-424-4047,trooperriley2@gmail.com,ONTARIO,14-Sep,,2014
+4092,16-Jan,Thijssen,Loretta,S,228 Carlisle Road,Douglas,NB,E3G 7N8,506-454-1131,lorettarose@bellaliant.net,EAST,12-Oct,Central NB,2012
+4093,16-Jan,Laurila,Riitta/Heikki,F,2172 New Street,Burlington,ON,L7R 1H8,289-337-4237,titta_laurila@hotmail.com,ONTARIO,14-Oct,Wainfleet,2014
+4094,16-Jan,Zilberg,Alla,S,219 Cedarpark Green SW,Calgary,AB,T2W 2R1,,alla.Zilberg@gmail.com,PRAIRIES,13-Jun,Chinook,2011
+4097,16-Jan,Clarot,Lino,S,9492 Casthederg,Caledon,ON,L7E 0S2,416-520-5679,info@k9dogss.com,ONTARIO,14-Oct,,2014
+4098,16-Jan,Vynychenko,Robin,S,853 Cousens Terrace,Milton,ON,L9T 0G1,416-989-9553,kellyerin905@yahoo.ca,ONTARIO,14-Oct,Saugeen,2014
+4099,16-Jan,Pawlowska,Kasia,S,3190 Thompson Place,West Vancouver ,BC,V7V 3E4,778-279-0273,hellokosia@gmail.com,WEST,14-Oct,LMGSDC,2014
+4100,16-Jan,Hardy/LeBlanc,Preston/Mylene,F,1537 West River East Side Road,Watervale,NS,B0K 1P0,902-925-2388,phardy@ns.sympatico.ca,EAST,9-Jul,,2009
+4101,16-Jan,Laan,Karolina,S,176 Hulmar Drive,North York,ON,M3N 2E7,614-716-6832,,ONTARIO,14-Nov,Scarborough,2014
+4102,16-Jan,Gauthier,Gillies,S,2477 Robindaine,L'Assomption,QC,J5W 0B9,450-705-3678,gauchamp@videotron.ca,QUEBEC,14-Nov,Mirabel,2014
+4103,16-Jan,Howlett,Linda ,S,7  Mountianview Dr,Goulds,NFLD,A1S 1C9,709-728-5842,lin-busdriver@hotmail.com,EAST,14-Nov,NFLDSC,2014
+4104,17-Jan,Espina,Dave,S,6286 Beul Cavoiser,St-Leonard,QC,H1P 2X8,514-267-3283,dave@academiecanineheel.com,QUEBEC,14-Nov,Mirabel,2014
+4105,16-Jan,Browning/Hill,Laura/Kirby,F,1038 County Rd 28 RR5,Langton,ON,N0E 1G0,519-825-1854,elle.wiey@gmail.com,ONTARIO,14-Dec,London Schutzhund Club,2014
+4106,16-Jan,MacMillan,Rick/Shawna,F,3872 Baby St,Windsor,ON,N9C 1L4,226-787-3300,,ONTARIO,14-Dec,Windsor,2014
+4107,16-Jan,Monfette,Serge,S,172 Lakeland Dr,Spruce Grove,AB,T7X 3Z8,780-960-2012,monfette@shaw.ca,PRAIRIES,14-Dec,,2014
+4108,16-Jan,Doull,Kim,S,2477 Huntley Road,Stittsville,ON,K2S 1B8,615-818-0035,kimdoull@icloud.com,ONTARIO,14-Dec,IPO Ottawa,2014
+4109,16-Jan,Guselle,Nicole,S,"8 Grafton St, Apt 1",Charlottetown,PEI,C1A 1K4,902-626-1134,nguselle@upei.ca,EAST,5-Apr, ,2007
+4110,16-Jan,Elrod,Selena,S,3340 Kingsly St,Victoria,BC,V8P 4J9,250-580-8398,abarat_cq@hotmail.com,WEST,14-Dec,SVISC,2014
+4112,16-Jan,Orr,Mitchell,S,7-15 Derby St,Hamilton,ON,L8W 3T3,905-929-6989,mitchorr7@hotmail.com,ONTARIO,15-Jan,Wainfleet,2015
+4113,16-Jan,MacGillivray,Lisa,S,1291 White Road,Nanaimo,BC,V9X 1N2,250-668-2436,rottiville@gmail.com,WEST,`Jan-15,,2015
+4114,16-Jan,Jenkins,Andrew,S,43 Honeyman Dr,Bowmanville,ON,L1C 0J1,289-355-3161,513@gmail.com,ONTARIO,15-Jan,,2015
+4115,16-Jan,Lavoie,Gisele,S,1248 Bachand,Carignan,QC,J3L 4E8,450-658-8357,jglavoie@videotron.ca,QUEBEC,15-Jan,IPO Sport,2015
+4116,16-Jan,Ouimet,Gerard,S,PO Box 275 ,Campbellville,ON,L0P 1B0,905-864-5878,ruraltraveler@icloud.com,ONTARIO,15-Jan,,2015
+4117,16-Jan,Tennant,Harold/Angie,F,3316 Sundew Court,Mississauga,ON,L5N 5X4,289-997-5365,trostberg3@hotmail.com,ONTARIO,Sep-89,Saugeen,1989
+4118,16-Jan,Horton,Arron/Julie,F,185 2nd Line,Bailieboro,ON,K02L 1B0,705-772-6226,nanj.wedding13@gmail.com,ONTARIO,15-Jan,Peterborough,2015
+4119,16-Jan,Kehler,Savanna,S,1291 White Road,Nianamo,BC,V9K 2N2,250-662-2216,savanakelher@gmail.com,WEST,15-Jan,ADRK,2015
+4120,16-Jan,Grice,Larry,S,278 Canada Street,Fredericton,NB,E3A 4A2,506-452-7680,susan.larryg@gmail.com,EAST,13-Sep,CNBSC,2015
+4121,16-Jan,Achita,Beata,S,1179 L:ower Village Cres,Mississauga,ON,L5E 3K8,416-958-9791,beata.achita@gmail.com,ONTARIO,15-Jan,Wainfleet,2015
+4122,16-Jan,Santerre/Siler,Kathy/James,F,662 Hazel Rd,Southwold,ON,N0L 2G,519-282-7890,ksanterrez1@gmail.com,ONTARIO,15-Jan,London Schutzhund Club,2015
+4123,16-Jan,Jones ,Karen,S,460 Giles Blvd East,Windsor,ON,N9A 4C7,,dogstudio@yahoo.com,ONTARIO,9-Nov,Windsor,2009
+4125,16-Jan,Kelly,Susan,S,320 Govenor Lane,Fredericton,NB,E3B 7K9,506-455-5606,kkelly@nbnet.nb.ca,EAST,15-Jan,CNBSC,2015
+4126,16-Jan,Cullum,Dave,S,22 Cayuga St,St.Catharines,ON,L2R 1E8,289-407-6192,jiggs@cageco.ca,ONTARIO,15-Jan,Wainfleet,2015
+4127,16-Jan,Heinbockel,Stephanie,S,190 B Mount Edward Road,Charlottetown,PEI,C1A 5T3,902-213-6787,stephheinbockel@gmail.com,EAST,15-Jan,PEI Schutzhund,2015
+4128,16-Jan,Carriere,Tim,S,4 Cadillac Blvd RR#1,Omemme,ON, K0L 2W0,705-931-1846,cocajelaib3@gmail.com,ONTARIO,15-Jan,Peterborough,2015
+4129,16-Jan,Boisjoli-Beauregard,Cinthia,S,491 La Grande Caroline,Rougemont,QC,J0L 1M0,438-885-2101,lucky7352@hotmail.com,QUEBEC,15-Jan,Mirabel,2015
+4130,16-Jan,Holmberg,Serena,S,4149 Dundas Street,Burnaby,BC,V5C 1A9,778-319-3647,serena@k-9bestbehavior.com,WEST,15-Jan,LMGSDC,2015
+4131,16-Jan,Chea,Sam ,S,7 Stepping Stone Trail,Scarborough,ON,MiX 2B4,416-271-8128,sam888che@gmail.com,ONTARIO,15-Jan,Scarborough,2015
+4132,16-Jan,Hamilton,Paul,S,915 White Ash Drive,Whitby,ON,L1N 7S7,905-430-0839,paul.j.hamin@sympatico.calto,ONTARIO,15-Jan,Capital City,2015
+4133,16-Jan,Alvey/Kelly,Brent/Jessica,F,540 Donegal Street,Peterbough,ON,K9H 4M1,705-760-4279,predeator_zx@hotmail.com,ONTARIO,15-Jan,Scarborough,2015
+4134,17-Jan,Apfel,Karine,S,8 Hulst Drive,Bradford,ON,L3Z 2T2,905-252-0125,,ONTARIO,15-Jan,Saugeen,2015
+4135,16-Jan,Karska,Edith,S,1149 Neptune Street,Peterbough,ON,K4H 7S8,705-991-1978,edithkarska@hotmail.com,ONTARIO,15-Jan,Peterborough,2015
+4136,16-Jan,Fiddes,Linda,S,1376 Regional Rd .10,Whitefish,ON,P0M 3E0,705-866-5698,fiddeslinda@hotmail.com,ONTARIO,15-Jan,,2015
+4137,16-Jan,Borges,Fidelio,S,456 Roseberry Street,Winnipeg,MB,R3J 1T7,204-831-6039,fborges@mts.net,PRAIRIES,13-Sep,WWDC,2015
+4138,16-Jan,Labelle,Alain/Christopher,F,63 rue des pommetiers,Gatineau,QC,J8R 2Y8,613-606-6969,fitmanal1@gmail.com,QUEBEC,12-Nov,Mirabel,2012
+4139,16-Jan,Furlano,Nicholas,S,140 Edward Pottage Cres,King,ON,L7B 0E2,289-231-2743,nick@afconstruction.ca,ONTARIO,15-Jan,York,2015
+4140,16-Jan,Faubert,Kat,S,111 Edward St,London,ON,N6C 3H8,519-810-4569,kgreen47@uwo.ca,ONTARIO,15-Jan,London Schutzhund Club,2015
+4141,16-Jan,Vallelunga,Brian,S,40 Rue De Pomerol,Terrebonne,QC,J6W 0C7,514-998-7377,bvallelunga@gmail.com,QUEBEC,15-Jan,Cyno Sport,2015
+4142,16-Jan,Cross,Graome,S,5205 Cobble Court,Kelowna,BC,V1W 4Y8,778-477-4704,gcross92@gmail.com,WEST,15-Jan, ,2015
+4143,16-Jan,Laroche,Nancy ,S,325 chemin du Lac Bob,Saint-Calixte,QC,J0K 1Z0,514-266-8979,nancy.laroche@outlook.com,QUEBEC,15-Jan,Cyno Sport,2015
+4144,16-Jan,Verton-Shaw,Shoshana,S,15233 Spence Line,Muirkirk,ON,N6C 1K3,519-777-6336,shoshanashw@gmail.com,ONTARIO,15-Jan,London Schutzhund Club,2015
+4145,16-Jan,Virtanen,Carol ,S,6 Mandalane Drive,Schomberg,ON,L0G 1T0,289-221-4283,carolvirtanen@hotmail.com,ONTARIO,9-Dec,Capital City,2009
+4146,16-Jan,Champagne,Nicolas,S,2196 Avenue Manon,Laval,QC,H7S 1V6,514-591-4869,nicolas.scholtrs.champagne@hotmail.ca,QUEBEC,13-Apr,Mirabel,2013
+4147,16-Jan,Hurl,Leanne,S,"82, 11 Clover Bar Lane",Sherwood Park,AB,T8H 0C4,780 417 5370 ,riviera_sun46@hotmail.com,PRAIRIES,6-Nov, ,2006
+4148,16-Jan,Cecchin,John/Kathy,FY,RR#3  7489  1st  Line,Arthur,ON,N0G 1A0,519-848-5554,winbakfund@rocketmail.com,ONTARIO,11-Oct,,2011
+4149,16-Jan,Callaghan,Michael,S,113.5 Clarence Ave,Fredericton,NB,E3A 1W3,506-261-1012,mikecallaghan55@hotmail.com,EAST,15-Jan,,2015
+4150,16-Jan,Fournel,Bruno,S,43 12th Ave,St-Hippolyte,QC,J2A 1E3,450-675-2667,jukaido@hotmail.fr,QUEBEC,15-Jan,,2015
+4151,16-Jan,Desnoyers,Karyne,S,43 12th Ave,St-Hippolyte,QC,J2A 1E3,450-675-2025,karyne.desnoyers@hotmail.fr,QUEBEC,15-Jan,,2015
+4152,16-Jan,Torpey,Rita,S,1108 Edderton Ave,Winnipeg,MB,R3T 0X4,204-284-9016,ronrita@mts.net,PRAIRIES,3-Nov,WWDC,2003
+4153,16-Jan,Cormier,Sandy,S,2418 Driftwood Dr,Sooke,BC,V9Z 0Y6,403-607-6248,info@k9training and supplies.com,PRAIRIES,May-95, ,1994
+4154,16-Jan,Knapp,Travis,S,651 A Burnt Hills Rd,Seeley's Bay,ON,K0H 2N0,613-929-0977,knapptreeservice@hotmail.com,ONTARIO,14-Jun,,2014
+4155,16-Jan,Remunda,Simon,S,2572 Prior St,Victoria,BC,V8T 3X6,250-380-0696,sremunda@,West,15-Mar,Pacific SC,2015
+4156,16-Jan,Huber,Tina,S,3430 Homark,Mississauga,ON,L4Y 2K7,416-803-8155,tinahuber67@gmail.com,ONTARIO,15-Mar,Scarborough,2015
+4157,16-Jan,Bregante,Timothy,S,83 Jeep Crescent,Eastern Passage,NS,B3G 1P3,902-465-3821,brengatetim@hotmail.com,EAST,15-Mar,ECWDC,2015
+4159,16-Jan,Lavigne,James,S,138 Centerton Rd,Clifton Royal,NB,E5S 2E8,506-651-5568,lavingne.james@gmail.com,EAST,Apl-15,Fundy,2015
+4160,16-Jan,Anaka,Carol,S,147 Humbercrest,Toronto,ON,M6S 4L5,416-212-1250,carol.anaka,ONTARIO,Apl-15,,2015
+4161,16-Jan,Anaka,Cody,S,147 Humbercrest,Toronto,ON,M6S 4L5,416-762-3386,,ONTARIO,Apl-15,,2015
+4162,16-Jan,MacLaren,Tamara,S,32465 Abercrombie Place,Mission,BC,V4S OB1,778-549-0655,tamara@tamaramaclaren.com,WEST,Apl-15,LMGSDG,2015
+4163,16-Jan,Tsiakos,Christopher,S,1607 Woodgate Trail,Oshawa,ON,L1G 8B5,647-295-2955,tsiakos@live.ca,ONTARIO,Apl-15,Synergy,2015
+4164,16-Jan,McDonald,Terry  ,S,64 Range Place NW,Calgary,AB,T3G 1P6,403-24102332,,PRAIRIES,13-Jun,Chinook,2015
+4165,16-Jan,Stirling,Duncan,S,"Po Box 37004, RPO McCarthy",Ottawa,ON,K1V 0W9,613-986-4576,duncan@ksrsheperds.com,ONTARIO,Apl-15,Cyno Sport,2015
+4166,16-Jan,Kelly,Daymon,S,17287 58 Ave,Surrey,BC,V3S 1K7,604-996-9835,daymonkelly@hotmail.com,WEST,Apl-15,Delta,2015
+4167,16-Jan,Beaubien,Yannick,S,100 Ch du Lac des Erables,St-Mathieu-du-Parc,QC,G0X 1N0,819-534-2205,,QUEBEC,14-Apr,Pro Sport,2014
+4168,16-Jan,Corfield,Melissa,S,4740 Eales Road,Metchosin,BC,V9C 4E1,250-483-5425,mnbueckert@gmail.com,WEST,13-Jun,SVISC,2013
+4169,16-Jan,Verhoeks/Snowden,Kevin/Joanne,F,PO Box 432 - 3479 Watson Avenue,Cobble Hill,BC,V0R 1L0,250-929-4318,joannesnowden@shaw.ca,WEST,14-Jan,Pacific,2014
+4170,16-Jan,McBride,Courtney,S,2085 Moore St ,Fredericton,NB,E3B 8L6,506-449-9712,C.MCBRIDE@LIVE.CA,EAST,Apl-15,CNBSC,2015
+4171,16-Jan,Devling,Nickky Bibby,S,1938 Mabel Lake Rd,Lumby,BC,V0E 2G6,250-547-0088,dndeuling@gmail.com,WEST,Apl-15,Kelowna,2015
+4172,16-Jan,Lee/Coulson,Jennifer/William,F,9265 Hayward St,Mission,BC,V4S 1V1,778-895-4473,honeyryder71@hotmail.com,WEST,Apl-15,,2015
+4173,16-Jan,Gagnon,Sebastien,S,185 rue Bellemare,Saint-Ettienne-des-Gres,QC,`G0X 2P0,819-609-9026,sebgagnon2@hotmail.com,QUEBEC,Apl-15,Pro Sport,2015
+4174,16-Jan,Pichette,Guilaume,S,215 rue Jean-Marc-Leclerc,Sherbrooke,QC,J1R 0A6,819-434-5359,guillaume.pichette@icloud.com,QUEBEC,Apl-15,IPO Sport,2015
+4175,16-Jan,Bonello/Ryan,John/ Audry,F,2074 Baseline Road,Bowmanville,ON,L1C 3K3,905-924-0236,ryankennels@hotmail.com,ONTARIO,14-Jul,Scarborough,
+4176,16-Jan,Posch-Mottle,Simone,S,23157  Township Road 500,Leduc County,AB,T4X 0V2,780-986-9207,simone.mottle@xplornet.ca,PRAIRIES,6-Sep,GSDCC,2006
+4177,16-Jan,Baker,Dale,F,2388 N Nugent Rd,Lummi Is,WA,98262,360-758-7313,lummidale@gmail.com,FOREIGN,10-Mar,LMGSDC,2015
+4178,16-Jan,Iakoubov,Emmanuel,SY,51 Lauderdale Dr,Maple  ,ON,L6A 4G8,6474553345,osherhause@gmail.com,ONTARIO,,Scarborough,2015
+4179,16-Jan,Corbett,Scott,S,42 Lower Dunham Rd,Durham Bridge,NB,E6C 1H9,506-455-9750,scott@thebarkinglot.ca,EAST,Apl-15,,2015
+4180,16-Jan,Constable,Johnathan,S,2328 Bethal Rd,Charlottetown,PEI,C1B 3L8,,,EAST,Apl-15,PEI Schutzhund,2015
+4181,17-Jan,Read,Christine ,S,2343 Mountain Hwy,North Vancouver,BC,V7J 2N2,604-616-6236,christinemwread@gmail.com,WEST,14-Aug,LMGSDC,2015
+4182,16-Jan,Phillipe,Mike,S,4564 Woodgreen Dr,West Vancouver ,BC,V7S2V2,604-715-9255,dog-fit@hotmail,WEST,14-Apr,WCGSSC,2015
+4183,16-Jan,L'Italien,Nicole,S,27180 Ness Lake Road,Prince George,BC,V2K 5M9,250-562-2131,northergsd@gmail.com,WEST,7-Nov,WDCPG,2015
+4184,16-Jan,Jarosz,Jamie,S,9445 - 116A Street,Delta,BC,V4C 6Z3,604-581-5166,banati@telus.net,WEST,11-May,Delta,2015
+4185,16-Jan,Giguere,Michelle,S,933  Rang 10,St-Valérien de Milton,QC,J0H 2B0,450-540-2068,info@angesgardiens.ca,QUEBEC,13-Jul,,2015
+4186,16-Jan,Nielsen,Maureen,S,PO Box 20177,Whitehorse,YT,Y1A 7A2,867-668-7104,maureen.nielsen@gmail.com,WEST,Apl-15,Yukon Sch Assoc,2015
+4187,17-Jan,Dockett,Kevin/Liz,F,8310  98th Ave  ,Osoyoos,BC,V0H 1V2,250-495-6700,ldockett@vip.net,WEST,12-Jul,,2002
+4188,16-Jan,Chagaev,Eliyahu,SY,110 Inverlocky Blvd A-508,Thornhill,ON,L3T 3R6,905-707-8437,elichagaev@gmail.com,ONTARIO,14-Jan,,2014
+4189,16-Jan,Mak,Kelly,S,285 Speedvale Ave E,Guelph,ON,N1E 1M8,516-803-9222,forestview87@gmail.com,ONTARIO,Apl-15,Saugeen,2015
+4190,16-Jan,Dionne,Jacques,S,59 Rue de Beloeil,Gatineau,QC,J8T 7G2,819-561-3546,dionne.jacques2014@gmail.com,QUEBEC,15-May,,2015
+4191,16-Jan,Bigras,Chad,S,4060 Charlie St,Petrolia,ON,N0N 1R0,519-330-5326,c_bigras201@hotmail.com,ONTARIO,15-May,London Schutzhund Club,2015
+4192,16-Jan,Murphy,Cheryl,S,9677 Silver Street,Caistor Center,ON,L0R 1E0,905-730-7257,cherylm379@gmail.com,ONTARIO,15-May,Niagara,2015
+4193,16-Jan,Filho,Zamar Martins  ,S,304-325-2 Ave NE,Calgary,AB,T2E 0E5,403-671-1683,"zamirmf""gmail.com",PRAIRIES,15-May,,2015
+4194,16-Jan,Gluck,Josh,S,534 Craig Road,Oxford Mills,ON,K0G 1S0,613-898-2978,josh.gluck7@gmail.com,ONTARIO,15-May,IPO Ottawa,2013
+4195,16-Jan,Lew ,Iliada,SY,1226 West 27th Ave,Vancouver,BC,V6H 2B9,778-881-7979,adaili@hotmail.com,WEST,15-May,,2015
+4196,16-Jan,Lynds,Troy,S,6452 Hwy 311,Tatamagouche,NS,B0K 1V0,902-657-1138,"troyan.schloss""hptmail.com",EAST,15-May,,2015
+4197,16-Jan,Keen,Jeff ,S,6226 McCloe Lane,Everson ,WA,98247,574-265-1845,jkeen6166@gmail.com,FOREIGN,15-May,WCGSSC,2015
+4198,16-Jan,Rovella,Rob,S,474 150 County Road 11,Amaranth,ON,L9W 0R4,519-940-5049,info@carissimakennels.com,ONTARIO,15-May,Scarborough,2013
+4199,16-Jan,Thomas,Andrea ,S,37 Harrison Ct,Whitby,ON,L1N 6E2,905-439-2599,andyt500@hotmail.com,ONTARIO,15-May,Synergy,2015
+4200,16-Jan,Jolkowski,Daniel,S,PO Box 1247,Marsh Lake,YT,Y0B 1Y1,567-336-8980,daniel.jolkowski,WEST,15-May,Yukon Sch Assoc,2015
+4201,16-Jan,Juros,Dan,S,4797 Ridgelawn Drive,Burnaby,BC,V5C 3Y1,604-723-8295,dannyj@shaw.ca,WEST,15-May,,2004
+4202,16-Jan,Sanford,Mike/Sara,F,249 Vicount Run,Hammonds Plains,NS,B4B 0B9,902-237-9657,sl_sadie@hotmail.com,EAST,15-May,ECWDC,2015
+4203,16-Jan,Barrette,Cathy,S,666 4e Rang,St-Etienne des Gres,QC,G0X 2P0,819-701-4019,catou_b@hotmail.com,QUEBEC,15-May,Pro-Sport,2015
+4204,16-Jan,Mugford,Janine,S,PO Box 528,Clarkes Beach,NL,A0A 1W0,709 786-5426,janinemichellem@hotmail.com,EAST,15-May,NFLSC,2013
+4205,16-Jan,Wessel,Ann ,S,"PO Box 147, 17 Connaught Ave",Port Robinson,ON,L0S 1K0,905-384-4470,awessel@cogeco.ca,ONTARIO,15-May,,2015
+4206,16-Jan,van de Kruisweg,Hendrick/Francisca,F,131 Woodside Road,Canning,NS,B0P 1H0,905-599-1352,ferdi@pfalzerheide.com,EAST,15-May,,2015
+4207,16-Jan,Gagne/Huard,Claude/Jeany,F,151 Valreas,St Paul de Joliette,QC,J0K 3E0,450-760-2681,lamipoils@videotron.ca,QUEBEC,15-May,,2015
+4208,16-Jan,Hampton,Elizabeth,S,2715 Old Saint John Rd.,Lepreau,NB,E5J 1M5,506-659-2748,elizabethhampton2002@yahoo.ca,EAST,15-May,Fundy,2007
+4209,16-Jan,Gordon/Rill,Jose/Michelle,F,7 Hampton Court,Welland,ON,L3C 5T2,905-716-5953,michelle_r@hotmail.com,ONTARIO,15-May,Niagara,2015
+4210,16-Jan,DelRizzo,Justine,S,42 Walton Drive,Caledon,ON,L7E 0A1,416-346-8462,jadelrizzo@hotmail.com,ONTARIO,15-May,,2015
+4211,16-Jan,Powell/Condly,John/Lisa,FY,2491 Route 620 Hwy,Hamtown Corner,NB,E3G 6P2,506-458-2856,jkcacp@nb.sympatico.com,EAST,15-May,CNBSC,2015
+4212,16-Jan,Malone ,Jennifer,S,31 Alex's Place  PO 992 ,St John's,NL,A1S 1H2,709-728-2878,moalonejennifer@hotmail.com,EAST,15-May,NFLSC,2015
+4213,16-Jan,Benett,Victor,S,107 Art West Ave,New Market,ON,L3X 3J4,416-509-2048,v.benett@rogers.com,ONTARIO,15-May,Scarborough,2015
+4214,16-Jan,Filice,Frank,S,78 Michelle Drive,Woodbridge,ON,L4L 9B9,416-274-1426,fankfilice@sympatico.ca,ONTARIO,15-May,Scarborough,2015
+4215,16-Jan,Pogacevski,Igor,S,,Mississauga,ON,L5E 1E6,416-544-4552,igorpogacevski@gmail.com,ONTARIO,15-May,Saugeen,2015
+4216,16-Jan,Rose,Wanda,S,19370-36th Ave,Surrey,BC,V3Z 1A3,206-948-3873,wrose?,WEST,15-May,LMGSDC,2015
+4217,16-Jan,DiRago,Michel,S,105 Chemin Dulude,Orford,QC,J1X 6P4,450-532-2134,mikedirago@live.com,QUEBEC,15-May,Estrie,2015
+4218,16-Jan,Clarke,Philip,S,20715 46e Ave,Langley,BC,V3A 3K1,604-328-9464,phili.clarke23@hotmail.com,WEST,15-May,LMGSDC,2015
+4219,16-Jan,LaPointe,Caroline,SY,162 Rang 5et 6,Sainte-Irene,QC,G0V 2P0,418-631-9470,infokrocleveurbergerailkmond.com,QUEBEC,15-May,,2015
+4220,16-Jan,Adam,Miranda,S,10 Loon Rd.,Whitehorse,YT,Y1A 6B9,867-335-3556,miranda_adam@hotmail.com,WEST,14-Aug,Yukon Sch H Assoc,2014
+4221,16-Jan,Haines,Debbie,S,1522 14Ave North,Lethbridge,AB,T1H 1V5,403-894-3582,deb.cradle@live.ca,PRAIRIES,15-Jun,,2015
+4222,16-Jan,Johnson,James,S,33 Montelbello Place,St Cathrines,ON,L2R 6B5,905-682-4513,jandpmail@yahoo.ca,ONTARIO,15-Jun,Wainfleet,2015
+4223,16-Jan,Bruzzese,Liiy,S,712 Manning Ave,Toronto,ON,M6G 2W4,416-535-5974,lillybruzzese@gmail.com,ONTARIO,15-Jun,,2015
+4224,16-Jan,Yelle,Don,S,246 Orchard Hill Rd,Bonfort ,CT,16259,,dyelle3@yahoo.com,FOREIGN,15-Jun,,2015
+4225,16-Jan,Fortin,Julie ,S,89 Rue Du Parc,St-Lucien,QC,J0C 1N0,819-818-0495,,QUEBEC,15-Jun,Estrie,2015
+4226,16-Jan,Baird,Earl,S,360 Boswell,Bowmanville,ON,L1C 0L9,905-926-3408,eab2064@gmail.com,ONTARIO,15-Jun,Peterborough,2015
+4227,16-Jan,Winsor,Nadine,S,42 Redbridge Road,Conception Bay,NFLD,A1X 6T8,709-728-3014,nadeen_gasse@hotmail.com,EAST,15-Jun,NFLDSC,2015
+4228,16-Jan,Wu,Kevin (Ping-En),S,2115 Midland Ave Unit 9,Toronto,ON,M1P 3E4,647-839-6716,,ONTARIO,14-Aug,,2014
+4229,16-Jan,Pike,Linda,S,PO Box 454,Goulds,NL,A1S 1G6,709-691-7243,sweetiron@nl.rogers.com,EAST,11-Jul,NFLDSC,2014
+4230,16-Jan,Pike,Jacqueline,S,PO Box 454,Goulds,NL,A1S 1G6,709-765-1582,tritalent.beagles@hotmail.com,EAST,11-Jul,NFLDSC,2014
+4231,16-Jan,Davis,Ken,S,717 Poleline Rd,Kakabeka Falls,ON,P7K 0E9,807-935-2721,bumber@tbaytel.net,ONTARIO,14-Aug,Thunder Bat Shutzhund,2014
+4232,16-Jan,Ward,Adrian,FS,23 Caribbean Dr,Heywoods Estates St.Peter,Barbados ,,246-422-4090,adrian.ward@live.com,FOREIGN,14-Jun,BWDA,2014
+4233,16-Jan,Guay,Danielle,S,126 De Provence,St-Basile-Le-Grand,QC,J3N 1W2,450-723-3523,maclhedagua@videotron.ca,QUEBEC,15-Jun,Club IPO Sport,2015
+4234,16-Jan,Benjaman,Justine,S,7a Drift Drive,Whitehorse,YT,Y1A 0B1,867-333-9653,j.benjaman21@hotmail.com,WEST,15-Jun,Yukon Sch H Assoc,2015
+4235,16-Jan,Powell,Dylan/Holly,F,131 Goerzen Street,Saskatoon,SK,S7K 6V6,306-229-5936,dylanpowell@usask.ca,PRAIRIES,13-Nov,Central Plains,2013
+4236,16-Jan,Jodovin/Foster,James/Cheryl,F,403 Smoothstone Cr,Saskatoon,SK,S7J 4T1,306-221-0991,cheryljfoster@gmail.com,PRAIRIES,15-Jun,Central Plains,2015
+4237,16-Jan,Molgat,Lise,S,Corry Lane,Beansville,ON,L0R 1B2,289-439-0882,dogadylise@bell.net,ONTARIO,15-Jun,Wainfleet,2015
+4238,16-Jan,Chartier,Jocelyne,S,425 Boul Brassard,St Paul de Joliette,QC,J0K 3E0,450-754-4247,goychar@gmail.com,QUEBEC,15-Jun,Cyno Sport,2015
+4239,16-Jan,Lister,Diane,S,PO Box 2004 ,Marsh Lake,YT,Y0B 1Y2,867-660-4630,dianelister@gmail.com,WEST,14-Aug,,2014
+4240,16-Jan,McConnell,Nadia,S,20 Forest Hill Drive,Everett,ON,L0M 1J0,519-216-2806,alexandraam@bell.net,ONTARIO,15-Jul,Saugeen,2015
+4241,16-Jan,McMullen,Donna,S,29 Hogsback Rd,Bethany,ON,L0A 1A0,705-277-1379,keiferzhora@live.com,ONTARIO,15-Jul,Peterborough,2007
+4242,16-Jan,May,Kristen/Micheal,F,5 EricaCircle,Oromocto,NB,E2V 2M1,506-440-1217,kristenhearn13@live.ca,EAST,15-Jul,CNBSC,2015
+4243,16-Jan,Kazuloek,Amanda,S,428 Smithfield Ave,Winnipeg,MB,R2V 0C9,204-557-2287,amanda-kazuloek@hotmail.com,PRAIRIES,15-Jul,WWDC,2015
+4244,16-Jan,Greer,Linda ,S,138 Wilson Dr.,Whitehorse,YT,Y1A 0C7,867-689-1273,lgreer@northwestel.net,WEST,15-Jul,Yukon Sch H Assoc,2014
+4245,16-Jan,Leadbeater,Ann-Marie,S,3965 Hwy 358 RR 3,Canning,NS,B0P 1H0,902-300-3503,grunfeldgermanshepherd@gmail.com,EAST,1-Jul-15,ECWDC,2011
+4246,16-Jan,Boulanger,Josee,S,747 Rang De La Riviere Nord,St-Lin-Laurentides,QC,J5M 1Y6,450-439-5683,lahoussaie.info@gmail.com,QUEBEC,14-Apr,Club IPO Sport,2011
+4247,16-Jan,Stevenson,Sharon,S,5681 Fairlight Cres,Delta,BC,V4E 1B3,604-599-4326,starstar@dccnet.com,WEST,5-May,LMGSDC,2005
+4248,16-Jan,Gallant ,Marie-Josee,SY,1777 Route Du Nord,Brownsburg-Chatham,QC,J8G 1E2,438-832-0955,mjgallant@live.ca,QUEBEC,15-Jul,IPO Sport,2015
+4249,16-Jan,Bissonnette,Eric,S,1882 De L'etoile,Ste-Julienne,QC,J0K 2T0,514-266-2983,,QUEBEC,15-Jul,Mirabel,2015
+4250,16-Jan,Sarty,Brittany,S,372 Milford Rd,Saint John,NB,E2M 4R7,506-674-1112,brittanysarty0711@hotmail.com,EAST,15-Jul,CNBSC,2015
+4251,16-Jan,Seguin,Luke,S,377 Road 11 RR #2 ,Woodslee,ON,N0R 1V0,519-839-5361,,ONTARIO,15-Jul,,2015
+4252,16-Jan,Teale,Paula,S,2039 Melville,Sidney,BC,V8L 2N2,250-818-0953,paula.reale#gmail.com,WEST,15-Jul,Prince George,2015
+4253,16-Jan,Husack,Glen,S,200 Linacre Road,Winnipeg,MB,R3T 3R6,204-269-6095,gahusac@shaw.ca,PRAIRIES,15-Jul,WWDC,2013
+4254,16-Jan,Miller ,Alan,S,868 Woodville Rd RR 3,Ashdale,NS,B0N 2A0,902-757-0264,almiller@eastlink.ca,EAST,15-Jul,,2015
+4255,16-Jan,Viau,Sarah-Lynn,S,5730 Hwy 101 West,Matheson,ON,P0K 1N0,709-762-5611,"vonousan""live.ca",ONTARIO,15-Jul,,2015
+4256,16-Jan,Mavroudis,Spiro,S,1201-25 Time Sale Dr.,Winnipeg,MB,R3Y 0P7,204-416-7311,"darthspiro""hotmail.com",PRAIRIES,15-Jul,WWDC,2015
+4257,16-Jan,Carroll,Janis,S,630 River Road,Lockport,MB,R1A 3C6,204-757-2000,janiscarroll1953@gmail.com,PRAIRIES,15-Jul,WWDC,2015
+4258,16-Jan,Payne,Wallace,S,245 Bob Smith Road,Sharpsburg,GA,30277,404-409-8438,wallacepaynesipo@gmail.com,FOREIGN,15-Jul,,2015
+4259,16-Jan,Gladish,Hillary,S,162 Falaise Rd,Whitehorse,YT,Y1A 3C2,867-336-3256,hill.nothof60@gmail.com,WEST,15-Jul,Yukon Sch Assoc,2015
+4260,16-Jan,LeBlanc,Simon,S,3280 City Rd,Cottam,ON,N0R 1B0,519-776-5318,simka@xplornet.com,ONTARIO,15-Aug,Winsor,2015
+4261,16-Jan,Griossinger,Jeffrey,S,Box 17 Site 145 RR#1,Brandon,MB,R7A 5Y1,204-901-4990,moegrossinger@live.ca,PRAIRIES,15-Aug,WWDC,2015
+4263,15-Jan,Bourque,Etienne,S,140 Du grenat,St-Colomban,QC,J5K 0E8,450-822-7508,ebelectrique@gmail.com,QUEBEC,15-Aug,Mirabel,2014
+4264,15-Jan,Rozsa-Atkinson,Erika,S,PO Box 30159,Whitehorse,YT,Y1A 5M2,867-333-0505,caninesyukon@hotmail.com,WEST,15-Aug,Yukon Sch H Assoc,2013
+4265,15-Jan,Krich ,Kerry,S,930 Richmond Avenue,Victoria,BC,V8S,250-884-6929,kerrykich@gmail.com,WEST,15-Aug,SVISC,2015
+4266,15-Jan,Walker/Dennis,Joanne/Mike,F,533 Main St,Wyoming,ON,N0N 1T0,579-845-1709,rotti1967@hotmail.com,ONTARIO,15-Aug,,2015
